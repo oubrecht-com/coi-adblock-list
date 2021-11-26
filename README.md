@@ -1,7 +1,7 @@
 ČOI adblock filtr
 =================
 
-Tento filtr je postavený na veřejných datech dostupných na adrese:
+Tento filtr je postavený na veřejných datech dostupných na adrese České obchodní inspekce:
 
 https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 
