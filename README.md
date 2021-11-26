@@ -1,5 +1,5 @@
-ČOI adblock list
-================
+ČOI adblock list Rizikové weby
+==============================
 
 Tento filtr je postavený na veřejných datech dostupných na adrese České obchodní inspekce:<br />
 https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv<br />
