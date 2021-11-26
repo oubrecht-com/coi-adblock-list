@@ -22,8 +22,8 @@ unlink("coi_adblock.txt");
 $coi_adblock = fopen("coi_adblock.txt", "a");
 
 //zapsat hlavičku do souboru
-fwrite($coi_adblock, "! Title: ČOI rizikové weby\n");
-fwrite($coi_adblock, "! Description: Adblock filtr poskládaný z veřejných dat ČOI rizikové weby.\n");
+fwrite($coi_adblock, "! Title: COI rizikove weby\n");
+fwrite($coi_adblock, "! Description: Adblock filtr poskladany z verejnych dat COI rizikove weby.\n");
 fwrite($coi_adblock, "! Version: 1.5\n");
 fwrite($coi_adblock, "! TimeUpdated: ".date("Y-m-d", time())."T".date("H:i:s", time())."+12:00\n");   //čas vytvoření, na konci 12:00 je čas za jak dlouho se tento soubor mění
 fwrite($coi_adblock, "! Expires: 1 days (update frequency)\n");
