@@ -8,10 +8,13 @@ https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/
 PHP script "coi.php" umí tyto data stahovat a vytvořit z nich TXT soubor "coi_adblock.txt", který lze vložit do AdBlocku.
 
 Tento script si můžete nasadit na svůj vlastní server a spouštět jej jako cron (ideálně 1x denně) a vytvářet si pro své klienty ČOI adblock list (filtr).
+<br /><br />
 
-**Adresa AdBlock liste je:** **https://raw.githubusercontent.com/oubrecht-com/coi-adblock-list/main/coi_adblock.txt**
+**Adresa AdBlock listu je:** **https://raw.githubusercontent.com/oubrecht-com/coi-adblock-list/main/coi_adblock.txt**
 
 Lze také využít již vytvořeného ČOI adblock listu na adrese: https://app.oubrecht.com/adblock/coi_adblock.txt
+<br /><br />
+
 
 Tento adblock list je na serveru vytvářen 1x denně. Dostupnost serveru a správnost dat není nijak garantována.
 
