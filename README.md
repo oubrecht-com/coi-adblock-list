@@ -11,10 +11,12 @@ Tento script si můžete nasadit na svůj vlastní server a spouštět jej jako 
 <br /><br />
 
 **Adresa AdBlock listu (zdroj GitHub.com):** **https://raw.githubusercontent.com/oubrecht-com/coi-adblock-list/main/coi_adblock.txt**<br />
+
 Zkusit přidat do AdBlocku tímto odkazem: https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Foubrecht-com%2Fcoi-adblock-list%2Fmain%2Fcoi_adblock.txt
-<br />
+<br /><br />
 
 **Adresa AdBlock listu (zdroj OUBRECHT.com):** **https://app.oubrecht.com/adblock/coi_adblock.txt**<br />
+
 Zkusit přidat do AdBlocku tímto odkazem: https://subscribe.adblockplus.org?location=https%3A%2F%2Fapp.oubrecht.com%2Fadblock%2Fcoi_adblock.txt
 
 <br /><br />
