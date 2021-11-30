@@ -1,12 +1,16 @@
-! Title: ČOI rizikové weby
-! Description: ČOI rizikové weby
+! Title: COI rizikove weby
+! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
 ! Version: 1.5
-! TimeUpdated: 2021-11-26T06:49:03+24:00
+! TimeUpdated: 2021-11-30T03:48:00+12:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||clearance2021.ru^
+||megacashfortress.com^
+||seethebestoptions.com^
+||vanefistneotabs.com^
 ||nikecz.cz^
 ||certifikatlevne.cz^
 ||rivio.cz^
