@@ -9,7 +9,9 @@ PHP script "coi.php" umí tyto data stahovat a vytvořit z nich TXT soubor "coi_
 
 Tento script si můžete nasadit na svůj vlastní server a spouštět jej jako cron (ideálně 1x denně) a vytvářet si pro své klienty ČOI adblock list (filtr).
 
-**Lze využít již vytvořeného ČOI adblock listu na adrese:** **https://app.oubrecht.com/adblock/coi_adblock.txt**
+**Adresa AdBlock liste je:** **https://raw.githubusercontent.com/oubrecht-com/coi-adblock-list/main/coi_adblock.txt**
+
+Lze také využít již vytvořeného ČOI adblock listu na adrese: https://app.oubrecht.com/adblock/coi_adblock.txt
 
 Tento adblock list je na serveru vytvářen 1x denně. Dostupnost serveru a správnost dat není nijak garantována.
 
