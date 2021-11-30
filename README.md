@@ -11,7 +11,7 @@ Tento script si můžete nasadit na svůj vlastní server a spouštět jej jako 
 <br /><br />
 
 **Adresa AdBlock listu je:** **https://raw.githubusercontent.com/oubrecht-com/coi-adblock-list/main/coi_adblock.txt**<br />
-Zkusit přidat do AdBlocku tímto odkazem: https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/oubrecht-com/coi-adblock-list/main/coi_adblock.txt
+Zkusit přidat do AdBlocku tímto odkazem: https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Foubrecht-com%2Fcoi-adblock-list%2Fmain%2Fcoi_adblock.txt
 <br />
 
 Lze také využít již vytvořeného ČOI adblock listu na adrese: https://app.oubrecht.com/adblock/coi_adblock.txt
