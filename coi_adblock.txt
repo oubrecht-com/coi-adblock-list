@@ -1,12 +1,19 @@
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
 ! Version: 1.5
-! TimeUpdated: 2021-12-28T03:48:00+12:00
+! TimeUpdated: 2021-12-29T03:48:00+12:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||indoorsuper.com^
+||zasilkonos.cz^
+||drmartensbotysleva.cz^
+||sorelpraha.com^
+||pumaslovensko.sk^
+||discountoutlets2021.ru^
+||bestremedyforpeople.com^
 ||bgznyxlbkgp.digital^
 ||beliamo.cz^
 ||unequalweb.com^
