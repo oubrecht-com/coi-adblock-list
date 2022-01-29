@@ -1,12 +1,14 @@
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
 ! Version: 1.5
-! TimeUpdated: 2022-01-28T03:48:00+12:00
+! TimeUpdated: 2022-01-29T03:48:00+12:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||zdraveprsty-na-nohou-cz.com^
+||pulsnioxymetrcz.com^
 ||botybogs.cz^
 ||1460pascal.cz^
 ||caterpillar-schoenen.com^
