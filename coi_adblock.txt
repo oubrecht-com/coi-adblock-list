@@ -1,12 +1,20 @@
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
 ! Version: 1.5
-! TimeUpdated: 2022-03-28T03:48:00+12:00
+! TimeUpdated: 2022-03-29T03:48:00+12:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||nbalance574.cz^
+||eccoshopcz.cz^
+||hokaeshop.cz^
+||vagabondeshop.cz^
+||timberlandcz.cz^
+||motocyklovehelmy.cz^
+||hokaonevyprodej.cz^
+||zenkys.cz^
 ||coccostore.cz^
 ||mizunoczstore.cz^
 ||vibramfive-fingers.cz^
@@ -25,7 +33,6 @@
 ||vdavasse.cz^
 ||ringlights.cz^
 ||rueporter.com^
-||nakupy-kaufland.cz^
 ||mycpagetti2.com^
 ||suganp.com^
 ||tovar-promo.com^
