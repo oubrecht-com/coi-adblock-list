@@ -1,7 +1,7 @@
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
 ! Version: 1.5
-! TimeUpdated: 2022-05-11T03:48:00+12:00
+! TimeUpdated: 2022-05-12T03:48:00+12:00
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
@@ -1292,44 +1292,23 @@
 ||shopnaturenow.com^
 ||zelenetrhy.cz^
 ||cafezlonin.cz^
-||skolkanahrade.cz^
-||never-grey-cz.com^
 ||nevergrey-f-cz.com^
 ||valgomed.com^
-||giga-shop.com^
-||nidora.com^
-||realquit.com^
 ||magnufuel.com^
-||optimaskpro.com^
 ||centrum-akci.com^
 ||ecoslimmer.pro^
 ||eurorcrally.cz^
 ||xiomnia.com^
 ||umincovny.cz^
 ||flame-fashion.com^
-||thebactefort.com^
-||certovachata.cz^
 ||hokejovedresy.com^
-||nikolka-zikova.cz^
-||club-valentino.cz^
-||nohejbalzlin.cz^
 ||curentlyoffer.com^
 ||onycosolveoriginal.com^
 ||product-club.com^
-||stavimesvami.cz^
-||biofreshfood.cz^
 ||czechmoda.com^
-||econorcz.slipkas.com^
-||econorcz.kupitdo.com^
-||teloveoleje.cz^
 ||zavlahy-cz.com^
-||kozloviceunepomuka.cz^
-||geomedia.cz^
-||uzeniny-domu.cz^
-||janbruzenak.cz^
 ||newenergysaver.pro^
 ||cz.technoweek.info^
-||play.mobistos.com^
 ||cz.top-battery-adapter.com^
 ||salesportal.cz^
 ||bestofferstar.com^
