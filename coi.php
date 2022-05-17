@@ -22,13 +22,15 @@ unlink("coi_adblock.txt");
 $coi_adblock = fopen("coi_adblock.txt", "a");
 
 //zapsat hlavičku do souboru
+fwrite($coi_adblock, "[Adblock Plus 2.0]\n");
 fwrite($coi_adblock, "! Title: COI rizikove weby\n");
 fwrite($coi_adblock, "! Description: Adblock list poskladany z verejnych dat COI rizikove weby.\n");
-fwrite($coi_adblock, "! Version: 1.5\n");
-fwrite($coi_adblock, "! TimeUpdated: ".date("Y-m-d", time())."T".date("H:i:s", time())."+12:00\n");   //čas vytvoření, na konci 12:00 je čas za jak dlouho se tento soubor mění
+fwrite($coi_adblock, "! Version: ".time()."\n");
+//fwrite($coi_adblock, "! TimeUpdated: ".date("Y-m-d", time())."T".date("H:i:s", time())."+12:00\n");   //čas vytvoření, na konci 12:00 je čas za jak dlouho se tento soubor mění
 fwrite($coi_adblock, "! Expires: 1 days (update frequency)\n");
 fwrite($coi_adblock, "! Homepage: https://oubrecht.com\n");
 fwrite($coi_adblock, "! License: https://oubrecht.com\n\n\n");
+
 
 //zpracovat řádek po řádku
 foreach($coi_open_data as $url){
