@@ -1,15 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1652924880
+! Version: 1653011280
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||salomoneshop.cz^
+||sakrbleproject.cz^
 ||keenbotyvyprodej.cz^
 ||tommyhilfigereshop.cz^
-||underarmourcz.cz^
 ||hokaoutlet.cz^
 ||bearpawoutlet.cz^
 ||vetacan.cz^
@@ -21,7 +22,6 @@
 ||vivobarefootslevy.cz^
 ||gigantv.com^
 ||cokobelo.com^
-||sakrbleproject.cz^
 ||manicky.cz^
 ||thursdaybootseurope.cz^
 ||qmchp.shop^
@@ -54,8 +54,8 @@
 ||paradisehost.cz^
 ||bapayo.com^
 ||kubishop.cz^
-||groundiesczechrepublic.com^
 ||groundiescz.com^
+||groundiesczechrepublic.com^
 ||drmartenskoupit.cz^
 ||cleanvisr.com^
 ||procarsshopcz1.com^
@@ -68,6 +68,9 @@
 ||motocyklovehelmy.cz^
 ||hokaonevyprodej.cz^
 ||zenkys.cz^
+||etnieslevne.cz^
+||eccobotyoutlet.cz^
+||hondrostrc.com^
 ||coccostore.cz^
 ||mizunoczstore.cz^
 ||vibramfive-fingers.cz^
@@ -104,11 +107,10 @@
 ||polstarnakrk-cz.com^
 ||liberec2013.cz^
 ||honzovyslevy.cz^
-||cistyodtok-cz.com^
 ||obchodnicek.cz^
 ||maxivyprodeje.cz^
 ||maldero.com^
-||lesni-valecek.myshopify.com^
+||myshopify.com^
 ||nejlepsinakup.eu^
 ||cistyodtok-cz.com^
 ||obchodicek.cz^
@@ -120,7 +122,6 @@
 ||botybogs.cz^
 ||1460pascal.cz^
 ||caterpillar-schoenen.com^
-||cez-loa.web.app^
 ||czobuveshop.com^
 ||icebugobuv.cz^
 ||kamagra-1stcz.com^
@@ -148,12 +149,12 @@
 ||coffeeboy.cz^
 ||vanspraha.cz^
 ||aiglevyprodej.cz^
+||discountoutlets2021.ru^
 ||indoorsuper.com^
 ||zasilkonos.cz^
 ||drmartensbotysleva.cz^
 ||sorelpraha.com^
 ||pumaslovensko.sk^
-||discountoutlets2021.ru^
 ||bestremedyforpeople.com^
 ||bgznyxlbkgp.digital^
 ||beliamo.cz^
@@ -170,9 +171,9 @@
 ||bonky.sk^
 ||booho.sk^
 ||guilaiyoushe.com^
-||keenczboty.cz^
-||mizuno-boty.cz^
 ||darka-line.cz^
+||mizuno-boty.cz^
+||keenczboty.cz^
 ||poplatky-zpet.cz^
 ||thursdayboots.cz^
 ||thenorthfacesvyprodej.cz^
@@ -265,7 +266,6 @@
 ||nauto.cz^
 ||crocspraha.com^
 ||beautyville.cz^
-||laureshop.eu^
 ||adoptovatvcelu.com^
 ||vip-brands.cz^
 ||tevabratislava.com^
@@ -288,6 +288,7 @@
 ||wellzdravs.com^
 ||tevaczechrepublic.cz^
 ||doctordays.com^
+||laureshop.eu^
 ||zdravydetox.sk^
 ||doctorlights.com^
 ||gmtpcy.com^
@@ -377,7 +378,6 @@
 ||microbiologybytes.com^
 ||adboty-eshop.cz^
 ||pumaoutletpraha.cz^
-||orislevy-vyprodej-brno.webnode.cz^
 ||inftnity.com^
 ||fotbaloveobleceni.com^
 ||akce.store^
@@ -484,7 +484,6 @@
 ||magicdealrp.com^
 ||czsale2021.com^
 ||naturebaby.cz^
-||czsale2021.com^
 ||24shop-cz.com^
 ||katalogseakers.cz^
 ||edensport.cz^
@@ -501,12 +500,12 @@
 ||shoppingclub.cz^
 ||tryitnow.space^
 ||thiyas.tk^
-||fortmediatech.com^
 ||svarecky-velkoobchod.cz^
 ||eccoobchod.cz^
 ||megamoravia.cz^
 ||excolov.com^
 ||starkuvdum.cz^
+||fortmediatech.com^
 ||aizen.cz^
 ||vansbotylevne.cz^
 ||vansskosalg.cz^
@@ -514,7 +513,7 @@
 ||cornavllc.com^
 ||cz-prihlaseni.com^
 ||ecobydleni.cz^
-||cz.smart-topstore.com^
+||smart-topstore.com^
 ||eccoeshopcz.cz^
 ||bezeckyklubbrno.cz^
 ||new-promotions24.com^
@@ -533,31 +532,31 @@
 ||bettertbuy.co^
 ||globalpromotiontool.com^
 ||cpgtstream8.com^
+||ultraforcebtcoffers.com^
 ||servingyourpharmacy.com^
 ||onlinecheap2020.net^
 ||factory2021.com^
 ||brixtonballs.cz^
 ||prodejbotpuma.top^
-||ultraforcebtcoffers.com^
 ||dropshiper.cz^
 ||eccoutlet.cz^
 ||fotbalovemall.com^
 ||cpagettigeneral2.com^
 ||thebtcwaves.com^
 ||world-newse.com^
-||health-and-beauty-4you.info^
 ||nirt.co.uk^
 ||recenzetop.cz^
 ||irecommendz.com^
+||health-and-beauty-4you.info^
 ||tv24news.net^
 ||alloverbodysupport.com^
 ||infoscrolling.com^
 ||medicalnews24.cz^
-||drmartenssleva.cz^
-||czfotbalshop.com^
-||topteam-preland.com^
-||wwnews24.su^
 ||goforthebest24.com^
+||wwnews24.su^
+||topteam-preland.com^
+||czfotbalshop.com^
+||drmartenssleva.cz^
 ||xcartpro.com^
 ||perfdealpromo.com^
 ||useyourbestbrain.com^
@@ -568,11 +567,12 @@
 ||ifotbalcz.com^
 ||finerglory.com^
 ||jsjavornik.cz^
+||beauty-goods.biz^
 ||webflow.io^
 ||kabirshoe.com^
+||blghip.ru^
 ||blockchain.com^
 ||cryptoeddu.com^
-||blghip.ru^
 ||gigantnd.com^
 ||cpagetti5.com^
 ||cpgtshop2.com^
@@ -592,6 +592,7 @@
 ||technik4less.de^
 ||wwlnws.ru^
 ||loftyteam.com^
+||xfastcart.com^
 ||trustableoffering.org^
 ||mirror-news.org^
 ||potokcpagetti2.com^
@@ -621,6 +622,7 @@
 ||kromerzskavyzva.cz^
 ||drmartenslevne.cz^
 ||autoskola-pv.cz^
+||nicozeron.com^
 ||spojmesilyprosigmu.cz^
 ||hpeprovisioning9.live^
 ||tvoje-krasa.cz^
@@ -628,8 +630,8 @@
 ||currentnewsforyou.com^
 ||keenobuv.cz^
 ||unifashion.cz^
-||tetarock.cz^
 ||crocsvyprodej.cz^
+||tetarock.cz^
 ||oceanna-hope.com^
 ||cannajointn.com^
 ||amaroklb.com^
@@ -643,11 +645,11 @@
 ||snoreblock.cz^
 ||zemanznovu.cz^
 ||cpagettistream8.com^
-||mojeroto.cz^
 ||czechshop.su^
 ||mydiabeticsolutions.com^
 ||remedythebest.com^
-||cz-eretron-aktiv.urban-deals.com^
+||urban-deals.com^
+||mojeroto.cz^
 ||austarucetnictvi.cz^
 ||stores2020.net^
 ||guccieshop.cz^
@@ -672,7 +674,7 @@
 ||keenvyprodej.cz^
 ||pandora-akce.cz^
 ||zirovnice.eu^
-||a-cz-bright-skin.natural-sales.com^
+||natural-sales.com^
 ||btcsystemsoftapp.com^
 ||btc-czech.com^
 ||wowbustlb.com^
@@ -684,6 +686,7 @@
 ||bestbtcoffers.com^
 ||greatest-shop.com^
 ||outletonline2020.net^
+||bitcoinsystemwebapp.com^
 ||getfityourbody.com^
 ||levasan-maxx2.com^
 ||b92eegumoc.store^
@@ -742,6 +745,7 @@
 ||24gid.info^
 ||ketodietnd.com^
 ||estersafranek.cz^
+||myshopify.com^
 ||insidemarketdataevents.xyz^
 ||lifemymall.com^
 ||koronavirus.in^
@@ -755,8 +759,8 @@
 ||cleanvisionnd.com^
 ||eccooutlet.cz^
 ||canabis-oil.com^
-||bitcoinsystemweb.com^
 ||europe2bitcoin.com^
+||bitcoinsystemweb.com^
 ||prodazhatovara.com^
 ||cardimednd.com^
 ||underarmourprodej.cz^
@@ -783,8 +787,9 @@
 ||consumermatrends.xyz^
 ||zizer.cz^
 ||diftheme.com^
-||syndstones.com^
+||sydstones.com^
 ||calvil.cz^
+||seekmob.com^
 ||destinorama.net^
 ||bestceler.cz^
 ||kominiksich.cz^
@@ -800,6 +805,7 @@
 ||cpagetti6.com^
 ||doktrin.cz^
 ||bitcoin-billionaire-app.com^
+||myshopify.com^
 ||erogannd.com^
 ||heart-tonic.org^
 ||micinormnd.com^
@@ -873,6 +879,7 @@
 ||cornermag.cz^
 ||zdravimazelenou.cz^
 ||maxisizend.com^
+||shockingdiscover.com^
 ||scientificnewsforyou.com^
 ||topicphones.info^
 ||czechrepublicflags.com^
@@ -921,8 +928,8 @@
 ||coolbox1-cz.com^
 ||podlozka-na-grilovanicz.com^
 ||snaponsmilecz.com^
-||jednookydalekohledcz.com^
 ||snaponsmile.com^
+||jednookydalekohledcz.com^
 ||akademie-rozvojovych-kurzu.com^
 ||satisfactional-survey-platform.com^
 ||artrovexnd.com^
@@ -933,9 +940,9 @@
 ||cz-baterie.cz^
 ||jedinecnydiar.cz^
 ||prollercz.com^
-||mycards24.eu^
 ||dreveneschodistebrno.cz^
 ||bitvaoberlin.cz^
+||mycards24.eu^
 ||netcistirny.cz^
 ||floryday.com^
 ||tendaisy.com^
@@ -972,7 +979,7 @@
 ||eximor.cz^
 ||adam-elektro.cz^
 ||penzion68.cz^
-||cz.trackey.store^
+||trackey.store^
 ||pkstudio-dobris.cz^
 ||kubasmrz.cz^
 ||karsit-garden.cz^
@@ -994,9 +1001,10 @@
 ||aaa-sport.net^
 ||premium-perfume.shop^
 ||mitcinemitpenize.cz^
+||veryvoga.cz^
 ||airlevne.cz^
 ||bozi-aukce.cz^
-||cz-tonic.forhealth.me^
+||forhealth.me^
 ||todayofferhub.com^
 ||bioveliss-tabs.com^
 ||tomashrma.cz^
@@ -1016,6 +1024,15 @@
 ||discountcbdshop.net^
 ||tempotime.cz^
 ||paskycrest.cz^
+||moresudoku.cz^
+||theminimalistgirl.cz^
+||zoufalemaminky.cz^
+||stylstudiobeata.cz^
+||bull-cervinka.cz^
+||slevyapoukazy.cz^
+||fotbalsokoldedice.cz^
+||hovorysguruem.cz^
+||vematex.cz^
 ||hasiciobora.cz^
 ||fiatyoungtimer.cz^
 ||barviruvdum.cz^
@@ -1035,7 +1052,6 @@
 ||psorilin-official.com^
 ||detoxifypromo.com^
 ||myhealthyblog.com^
-||myhealthyblog.co^
 ||czechopen2012.cz^
 ||thaj-kos.cz^
 ||partapytel.cz^
@@ -1100,6 +1116,7 @@
 ||denta-seal.store^
 ||theerofertillb.com^
 ||ceskylekarskyportal.com^
+||eccoeshop.cz^
 ||stavimezavas.cz^
 ||rerez.cz^
 ||poodle-rebels.cz^
@@ -1133,9 +1150,6 @@
 ||tspweb.cz^
 ||salondibo.cz^
 ||cpagetti3.com^
-||perfumesonsale.website^
-||dis2012.org^
-||schwabess.info^
 ||thenicoinlb.com^
 ||theprosterolb.com^
 ||salescz.club^
@@ -1151,13 +1165,17 @@
 ||omegashark.com^
 ||lacuketa.cz^
 ||malpro-pawbol.cz^
-||feizer.com ^
+||feizer.com^
 ||omegasharkofficial.com^
 ||marousova-kurzy.cz^
 ||volanizakacku.cz^
 ||schotz.cz^
 ||antiagingtipsweb.eu^
 ||allsearchreward.com^
+||machackova-terapie.cz^
+||casopisbohyne.cz^
+||malapostovnikancelar.cz^
+||tip-profit.cz^
 ||motopenzion.cz^
 ||flipitreality.cz^
 ||tamtamyops.cz^
@@ -1171,7 +1189,8 @@
 ||cukrarnalaskonka.cz^
 ||satinefashion.cz^
 ||theenergysaverboxlb.com^
-||securesmrt-dt.com ^
+||securesmrt-dt.com^
+||fischervaclav.com^
 ||theartrovexlb.com^
 ||thebitcoincompass.com^
 ||bbonita.cz^
@@ -1198,6 +1217,7 @@
 ||johankacieslarova.cz^
 ||artro-vex.site^
 ||kupparfem.com^
+||ecwid.com^
 ||doniksport.cz^
 ||onlineslevy.de^
 ||aakce.net^
@@ -1205,9 +1225,7 @@
 ||filipproucil.cz^
 ||pureboost.cz^
 ||unitycesky.cz^
-||net-br17.stream^
 ||the-best-deal-for-you.com^
-||feb-gov.org^
 ||whetupartners.com^
 ||servistrade.cz^
 ||danajaklova.cz^
@@ -1218,7 +1236,7 @@
 ||clubcantare.cz^
 ||moja-cajovna.cz^
 ||lekarna-protebe.cz^
-||mujbioshop.cz-baterie.cz^
+||mujbioshop.cz^
 ||salonpompadour.cz^
 ||jinart.cz^
 ||tanecnicentrum-vm.cz^
@@ -1230,35 +1248,38 @@
 ||thefortelove.com^
 ||visario.cz^
 ||prohodonin.cz^
-||czech.bioretin-official.site^
+||bioretin-official.site^
 ||hradubickenovinky.cz^
 ||fitnesslitomysl.cz^
-||rus-runa.cz ^
+||rus-runa.cz^
 ||slocz.com^
 ||ceprobe.cz^
 ||i-deal24.com^
 ||powerfactorpro.com^
 ||lieferungpillen.ltd^
-||cz.theenergysaverbox.com^
+||theenergysaverbox.com^
 ||ostrovskeozveny.cz^
 ||truthofthisworld.com^
 ||pragueactivators.cz^
 ||theelmacho.com^
 ||hasicidolnimecholupy.cz^
 ||lenka-nehty.cz^
-||gabiony-bouse.cz ^
+||gabiony-bouse.cz^
 ||achatpharma.cz^
 ||znacekobuv.cz^
-||cz.thevarbooster.com^
+||thevarbooster.com^
 ||internet-televize-volani.cz^
-||cz.theartrovex.com^
+||theartrovex.com^
 ||econtech.cz^
-||czr.titan-man.me^
+||titan-man.me^
 ||shopnaturenow.com^
+||worldinfoclub.com^
+||thewelltox.com^
+||facestyle.cz^
 ||bestrcs.com^
 ||slomek.com^
 ||travelovers.cz^
-||krcma-marketa.cz ^
+||krcma-marketa.cz^
 ||kalasovoreznictvi.cz^
 ||lukasvalis.cz^
 ||cukrovivsetin.cz^
@@ -1266,14 +1287,15 @@
 ||anstyl.cz^
 ||extrapecka.cz^
 ||tbautodily.cz^
-||cz1.therecardio.com^
+||bestseller-super.ru^
+||biz.ua^
+||therecardio.com^
 ||provadenistaveb.eu^
 ||svetovniezici.eu^
 ||skvizovice.cz^
 ||bestseller-super.ru^
 ||jakubhoudek.cz^
 ||planetinfocenter.com^
-||shopnaturenow.com^
 ||fastcomputerreport.com^
 ||easymoneypc.com^
 ||thesetup.cz^
@@ -1281,38 +1303,26 @@
 ||thtex.cz^
 ||vmtip.cz^
 ||theelmacho.com^
-||starmaxxpneu.cz^
 ||theerogan.com^
 ||zbynek-kohout.cz^
-||cz.mydiettonus.com^
-||enviedulife.cz^
 ||xdrivestudio.cz^
-||zahradniosvetleni-cz.com^
-||cejkor.cz^
-||carcam-cz.com^
-||rovapodlahy.cz^
-||pizzaperfetta.cz^
-||cyklotrasycesko.cz^
-||kurde.cz^
-||bestpromocenter.com^
 ||worldinfoclub.com^
+||bestpromocenter.com^
 ||infos-nosnore-cz.com^
 ||no-snore1-cz.com^
-||xhoseprocz.com^
-||nejkartarka.cz^
-||autoservisfaan.cz^
 ||taneczeme.cz^
-||shopnaturenow.com^
 ||zelenetrhy.cz^
 ||cafezlonin.cz^
-||nevergrey-f-cz.com^
-||valgomed.com^
-||magnufuel.com^
-||centrum-akci.com^
+||bibliotecadelvino.cz^
+||fitstudiojump.cz^
+||e-porovnani.cz^
+||fanshopzlin.cz^
+||bestpromocenter.com^
+||bestofferstar.com^
 ||ecoslimmer.pro^
 ||eurorcrally.cz^
 ||xiomnia.com^
-||umincovny.cz^
+||kickshoes.cz^
 ||flame-fashion.com^
 ||hokejovedresy.com^
 ||curentlyoffer.com^
@@ -1321,10 +1331,9 @@
 ||czechmoda.com^
 ||zavlahy-cz.com^
 ||newenergysaver.pro^
-||cz.technoweek.info^
-||cz.top-battery-adapter.com^
+||technoweek.info^
+||top-battery-adapter.com^
 ||salesportal.cz^
-||bestofferstar.com^
-||bestpromocenter.com^
-||lukaskovac.cz^
-||fanshopzlin.cz^
+||centrum-akci.com^
+||magnufuel.com^
+||valgomed.com^
