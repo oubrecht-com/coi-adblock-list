@@ -1,12 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1654220880
+! Version: 1654307280
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||maxiholky.cz^
+||luggey.com^
+||lemonbrandco.com^
 ||hikeboty.cz^
 ||eccoczeshop.cz^
 ||demoniabotyeshop.cz^
@@ -498,15 +501,9 @@
 ||24shop-cz.com^
 ||katalogseakers.cz^
 ||edensport.cz^
-||rt-export.com^
-||uggslovensko.sk^
-||boskop.gq^
 ||life-changings-facts.com^
-||hollistereshop.sk^
 ||filasleva.cz^
 ||4blok.cz^
-||nakupovo.cz^
-||fotbalovy-fanshop.cz^
 ||tylda.cz^
 ||shoppingclub.cz^
 ||tryitnow.space^
@@ -518,9 +515,6 @@
 ||starkuvdum.cz^
 ||fortmediatech.com^
 ||aizen.cz^
-||vansbotylevne.cz^
-||vansskosalg.cz^
-||vans-sleva.cz^
 ||cornavllc.com^
 ||cz-prihlaseni.com^
 ||ecobydleni.cz^
@@ -532,10 +526,8 @@
 ||fotbalovedresycz.com^
 ||onlinesale2020.com^
 ||uggsleva.cz^
-||minibusypraha.cz^
 ||predstavitltd.com^
 ||cpagettipotokk8.com^
-||artresinplus.com^
 ||top-sales24.com^
 ||offerinfor24.com^
 ||phytosbest.com^
@@ -619,12 +611,6 @@
 ||abc-pro-zdravi.cz^
 ||xfastcart.com^
 ||cpagettistream3.com^
-||wealthy-offer.com^
-||4mushing.cz^
-||bytuzitecny.cz^
-||bikemaraton-bozenov.cz^
-||mkblansko.cz^
-||unitedmob-online.com^
 ||thebestvouchers.com^
 ||fotomajak.cz^
 ||brnojih.eu^
