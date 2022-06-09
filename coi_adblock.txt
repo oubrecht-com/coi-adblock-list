@@ -1,12 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1654652880
+! Version: 1654739280
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||bazingastar.com^
+||underarmourhovr.cz^
+||pumapraha.com^
+||shophunter.cz^
 ||cpagettimain4.com^
 ||maxiholky.cz^
 ||luggey.com^
@@ -910,27 +914,15 @@
 ||ingressmania.cz^
 ||zethadesign.cz^
 ||cz-xhose1.com^
-||rozprasovaci-brana-cz.com^
 ||bezdratova-sluchatka-cz.com^
 ||coolbox1-cz.com^
 ||podlozka-na-grilovanicz.com^
 ||snaponsmilecz.com^
 ||snaponsmile.com^
 ||jednookydalekohledcz.com^
-||akademie-rozvojovych-kurzu.com^
-||satisfactional-survey-platform.com^
-||artrovexnd.com^
-||vseprosebe.cz^
-||monili.cz^
-||xboxsleva.cz^
 ||freshfingers.pro^
 ||cz-baterie.cz^
-||jedinecnydiar.cz^
 ||prollercz.com^
-||dreveneschodistebrno.cz^
-||bitvaoberlin.cz^
-||mycards24.eu^
-||netcistirny.cz^
 ||floryday.com^
 ||tendaisy.com^
 ||hotinzerce.cz^
@@ -959,7 +951,6 @@
 ||kubasmrz.cz^
 ||karsit-garden.cz^
 ||nikecz.com^
-||silane-guard-official.site^
 ||thevarboosterlb.com^
 ||pandoracz.com^
 ||bauer-bandage.cz^
