@@ -1,12 +1,24 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1657246261
+! Version: 1657332661
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||pod-cenou.cz^
+||myblendit.cz^
+||doktoratonline.cz^
+||thekaufhaus.com^
+||timberlandpraha.cz^
+||stayingsafe.cz^
+||pumacz.cz^
+||sauconystorecz.cz^
+||jizdnikolaprerov.cz^
+||vsetop.cz^
+||lottovyprodej.cz^
+||flaro.cz^
 ||wraam.cz^
 ||olukaieurope.cz^
 ||wallvision.cz^
@@ -109,18 +121,7 @@
 ||etnieslevne.cz^
 ||eccobotyoutlet.cz^
 ||hondrostrc.com^
-||mizunoczstore.cz^
 ||vibramfive-fingers.cz^
-||eccobotypraha.cz^
-||converskyboty.cz^
-||botycaterpillar.cz^
-||sauconysport.cz^
-||crocsprodej.cz^
-||drlevneboty.cz^
-||salomonbotyoutlet.cz^
-||sorelczsleva.cz^
-||thenorthfacecz.cz^
-||tomsboty.cz^
 ||pfjhy.shop^
 ||vdavasse.cz^
 ||rueporter.com^
@@ -1226,13 +1227,8 @@
 ||titan-man.me^
 ||shopnaturenow.com^
 ||worldinfoclub.com^
-||thewelltox.com^
-||facestyle.cz^
 ||bestrcs.com^
-||slomek.com^
-||travelovers.cz^
 ||krcma-marketa.cz^
-||kalasovoreznictvi.cz^
 ||lukasvalis.cz^
 ||cukrovivsetin.cz^
 ||areareklama.cz^
