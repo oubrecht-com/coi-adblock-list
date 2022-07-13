@@ -1,12 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1657591862
+! Version: 1657678261
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||footjoygolfboty.cz^
+||danskocz.cz^
 ||pod-cenou.cz^
 ||myblendit.cz^
 ||doktoratonline.cz^
@@ -896,18 +898,10 @@
 ||enence.com^
 ||muama-enence.net^
 ||zadaas.cz^
-||primanastroje.cz^
-||itmartin.cz^
 ||varicobnd.com^
-||lacarreta.cz^
-||rascalstudio.cz^
-||powerstyleled-cz.com^
-||keenboty.cz^
 ||easyart24.com^
-||treninkplus.cz^
 ||pandoraeshop.cz^
 ||netwhisky.at^
-||klarafoti.cz^
 ||ingressmania.cz^
 ||zethadesign.cz^
 ||cz-xhose1.com^
@@ -926,19 +920,11 @@
 ||penzion-u-petry.cz^
 ||cistyprostejov.cz^
 ||suganormnd.com^
-||projekt-nadani.cz^
 ||lingfluent.com^
 ||bactefortnd.com^
 ||chalupa-servis.cz^
-||bouceksport.cz^
-||4bodyoffer.com^
-||slimmingdetox.eu^
 ||pocitacefrydlant.cz^
-||evertech.cz^
 ||skechersbotyoutlet.cz^
-||databazecitatu.cz^
-||apa-esox.cz^
-||allrad.cz^
 ||eshopie.cz^
 ||eximor.cz^
 ||adam-elektro.cz^
