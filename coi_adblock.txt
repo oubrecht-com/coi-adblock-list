@@ -1,12 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1670296262
+! Version: 1670382661
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||topvision-cz.com^
+||guessczonline.com^
+||markmax.site^
 ||evasiveinfo.com^
 ||dreampads.cz^
 ||suprabotyshoppraha.cz^
@@ -911,37 +914,21 @@
 ||lumeo.cz^
 ||velomont.com^
 ||lunzo.cz^
-||consumermathiepgoals.xyz^
-||consumermarketdefinition.xyz^
 ||rivalenti.cz^
 ||huglo.sk^
 ||zizer.cz^
 ||seekmob.com^
 ||destinorama.net^
 ||bestceler.cz^
-||vanslevne.cz^
 ||centrum-cesta.cz^
-||nowbeadmired.com^
-||levne2020.com^
-||rouska-na-usta-cz.com^
-||onpoint.cz^
 ||solarnilampycz.com^
 ||buyonlineto.world^
-||savsmagazin.cz^
 ||cpagetti6.com^
 ||doktrin.cz^
 ||bitcoin-billionaire-app.com^
 ||myshopify.com^
 ||erogannd.com^
-||heart-tonic.org^
-||micinormnd.com^
-||thingsyouuse.com^
 ||cpgtstream9.com^
-||bornacnc.cz^
-||dareabeauty.cz^
-||pandamax.cz^
-||lottalovee.com^
-||pomocsukolem.cz^
 ||infrateplomer-cz.com^
 ||lifeofatraderstories.com^
 ||smilewinter.com^
