@@ -1,12 +1,20 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1671592262
+! Version: 1671678662
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||gymsharkleginy-cz.cz^
+||hush-puppies.cz^
+||lowabotyslevy.cz^
+||onrunningvyprodej.cz^
+||onrunningbotypraha.cz^
+||nikebotysleva.cz^
+||arcteryxbunda.cz^
+||ceskomikulovskakuchyne.com^
 ||milead.click^
 ||timberland-boty.cz^
 ||vivobarefootboty.cz^
@@ -394,19 +402,8 @@
 ||bagscnshop.top^
 ||mraky-kostek.cz^
 ||vivobarefootcz.cz^
-||supraslovensko.com^
 ||ipermediaservizi.it^
 ||zubni-kartacek.cz^
-||kynkorova-psycholog.cz^
-||kracen-nabytek.cz^
-||match-pro.cz^
-||mdseshop.cz^
-||wkmoto.cz^
-||vejavyprodej.cz^
-||darekk80narozeninam.cz^
-||sefovepodlupou.cz^
-||web-development.cz^
-||eurosprintczech.cz^
 ||cpgtpotok5.com^
 ||chytrynaramek-cz.com^
 ||lasportivacz.cz^
