@@ -1,12 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1673493061
+! Version: 1673579462
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||kristinn.shop^
 ||europebestshop.com^
 ||arcteryxbundacz.com^
 ||keen-cz.com^
@@ -457,7 +458,6 @@
 ||campereshop.cz^
 ||theproductcool.com^
 ||american-supplements.cz^
-||nauto.cz^
 ||crocspraha.com^
 ||beautyville.cz^
 ||adoptovatvcelu.com^
@@ -1086,9 +1086,6 @@
 ||diabetodofficial.com^
 ||discountcbdshop.net^
 ||tempotime.cz^
-||paskycrest.cz^
-||moresudoku.cz^
-||theminimalistgirl.cz^
 ||zoufalemaminky.cz^
 ||dobra-kamna.cz^
 ||countryruksak.cz^
@@ -1127,8 +1124,6 @@
 ||shopcpagetti3.com^
 ||olomouckakina.cz^
 ||tibushop.com^
-||duveryhodnyobchodnik.cz^
-||tidatours.cz^
 ||shockingdiscover.com^
 ||kozni-keclikova.cz^
 ||akce-pandora.cz^
@@ -1185,12 +1180,7 @@
 ||levnevodnidymky.cz^
 ||moja-cajovna.cz^
 ||lekarna-protebe.cz^
-||mujbioshop.cz^
-||salonpompadour.cz^
-||jinart.cz^
-||tanecnicentrum-vm.cz^
 ||klubklid.cz^
-||zahrady-acaero.cz^
 ||1saty.cz^
 ||bioretin-official.site^
 ||slocz.com^
