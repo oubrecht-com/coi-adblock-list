@@ -1,12 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1673838661
+! Version: 1673925062
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||botylowashop.cz^
+||botypikolinoseshop.cz^
 ||mykitashop.cz^
 ||lasmpo.com^
 ||aloyogacz.com^
@@ -937,19 +939,12 @@
 ||doktrin.cz^
 ||bitcoin-billionaire-app.com^
 ||myshopify.com^
-||erogannd.com^
 ||cpgtstream9.com^
 ||infrateplomer-cz.com^
-||lifeofatraderstories.com^
-||smilewinter.com^
 ||moje-lekarna.com^
 ||i-healthy-beauty.com^
-||pohodabrezany.cz^
-||buniko.cz^
-||dodavatelautodilu.cz^
 ||energy-saving-b0x.com^
 ||xxlobchod.com^
-||dresyonline.cz^
 ||dreamchaserloveyourself.site^
 ||onesgos.com^
 ||homegaden.com^
