@@ -1,12 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1675393861
+! Version: 1675480261
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||nobulleshop.cz^
+||ztuuwk.com^
+||enxh.xyz^
 ||shein.com^
 ||eccoshopscz.cz^
 ||caterpillarsleva.cz^
@@ -1107,15 +1110,9 @@
 ||rocktime.cz^
 ||libereckybeh.cz^
 ||mylano.ch^
-||planters.cz^
 ||dvesrdcelasky.cz^
-||mjandova.cz^
-||villasalzer.cz^
-||oiltherapynow.eu^
 ||wincleanerpro.com^
-||restauracenabrehu.cz^
 ||worldocassions.com^
-||lowcaloriesmart.eu^
 ||uspory.net^
 ||voucher.plus^
 ||marthistore.cz^
@@ -1141,7 +1138,6 @@
 ||cpagetti3.com^
 ||theprosterolb.com^
 ||salescz.club^
-||pro-kraj.cz^
 ||101offers.eu^
 ||dedolej.cz^
 ||omegashark.com^
@@ -1153,21 +1149,11 @@
 ||horokolo.cz^
 ||securesmrt-dt.com^
 ||thebitcoincompass.com^
-||bbonita.cz^
-||soud-exekuce.cz^
-||vakce.net^
 ||topslevy.online^
-||podbrezacek.cz^
 ||wshandicap.cz^
-||therecardiolb.com^
 ||pharmworld.icu^
-||thealcobarrierlb.com^
 ||world-of-earnings.com^
-||investment-rules.com^
-||the-titaniumlb.com^
-||inkup.cz^
 ||kodiaq.eu^
-||smaxy.cz^
 ||cosmito.cz^
 ||inau.cz^
 ||artro-vex.site^
