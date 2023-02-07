@@ -1,12 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1675653061
+! Version: 1675739462
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||delivery9035.info^
+||caterpillarprodej.cz^
 ||nobulleshop.cz^
 ||ztuuwk.com^
 ||enxh.xyz^
@@ -916,18 +918,11 @@
 ||kafar.cz^
 ||radcesdkarty.cz^
 ||technet4u.cz^
-||fungonis-original.com^
-||audi-sport.cz^
 ||cleanvisionnd.com^
-||eccooutlet.cz^
 ||canabis-oil.com^
-||europe2bitcoin.com^
-||bitcoinsystemweb.com^
 ||prodazhatovara.com^
 ||cardimednd.com^
-||underarmourprodej.cz^
 ||boxerkyprotebe.cz^
-||adamourlb.com^
 ||amorise.com^
 ||obchod2017.com^
 ||cz-novinky.website^
@@ -938,9 +933,7 @@
 ||lunzo.cz^
 ||rivalenti.cz^
 ||huglo.sk^
-||zizer.cz^
 ||seekmob.com^
-||destinorama.net^
 ||bestceler.cz^
 ||centrum-cesta.cz^
 ||solarnilampycz.com^
@@ -961,25 +954,11 @@
 ||vevio.cz^
 ||huglo.cz^
 ||lifeblg.ru^
-||summerumen.com^
-||kameramankaltm.cz^
-||mobigem.cz^
-||studiorelax-benatky.cz^
-||cestovanijeradost.cz^
 ||wifi-camera.shop^
 ||trendprace.cz^
-||anteny-satelity-ezs.cz^
-||malirstvidulik.cz^
-||etershop.cz^
 ||prodej.in^
-||malechastore.cz^
 ||luckydevil.xyz^
-||jsdrazice.cz^
 ||jkprofistav.cz^
-||inoinfra.cz^
-||drogerieevropa.cz^
-||vbbagency.cz^
-||hondrocreamnd.com^
 ||adnet99.com^
 ||spssourosice.cz^
 ||hrbatuvkostelec.cz^
