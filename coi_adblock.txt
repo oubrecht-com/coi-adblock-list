@@ -1,12 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1678072261
+! Version: 1678158661
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||top-comp.cz^
+||rayray.sk^
+||drmartensczechrepublic.cz^
+||opbfd.shop^
 ||catchoffersnow24.com^
 ||tsanlo.com^
 ||topeo.cz^
@@ -403,7 +407,6 @@
 ||abshuzhi.com^
 ||jackwolfskinpraha.com^
 ||meek.cz^
-||joolando.cz^
 ||lapert.cz^
 ||fashion-mode.cz^
 ||coffeeboy.cz^
@@ -486,28 +489,17 @@
 ||sladkynapad.cz^
 ||vejaboty.cz^
 ||canadagoosevyprodej.cz^
-||pumabotysleva.cz^
-||skechersczech.cz^
-||reactelements.cz^
-||hugobosssleva.cz^
-||adlist.cz^
 ||hemorv.com^
-||homerest.cz^
-||campereshop.cz^
 ||theproductcool.com^
 ||american-supplements.cz^
-||crocspraha.com^
 ||beautyville.cz^
-||adoptovatvcelu.com^
 ||vip-brands.cz^
 ||tevabratislava.com^
-||botytoms.cz^
 ||pulsni-oxymetrcz.com^
 ||skechersbotyobuv.cz^
 ||shopsoutlet2021.ru^
 ||onrunningboty.com^
 ||onlinefactory2021.ru^
-||botyvanslevne.cz^
 ||calvinkleinlevne.cz^
 ||bestlive.cz^
 ||modaaz.cz^
