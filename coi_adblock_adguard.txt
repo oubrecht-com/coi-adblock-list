@@ -1,12 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1678932661
+! Version: 1679019062
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oubrecht.com
 ! License: https://oubrecht.com
 
 
+||sexyplastenky.cz^$all
+||paketstorch.cz^$all
+||obfdj.shop^$all
+||praiseglories.info^$all
 ||okay-world.monster^$all
 ||newsyoucanread24.com^$all
 ||sharkorder.com^$all
@@ -892,13 +896,7 @@
 ||lenkajuricova.cz^$all
 ||andreasmidova.cz^$all
 ||vsevakci.cz^$all
-||insumednd.com^$all
-||kadernictvieso.cz^$all
 ||feizeripx.net^$all
-||tompolprojekt.cz^$all
-||naplnkbelik.cz^$all
-||bitcoinsystemwebsoft.com^$all
-||btc-financer.com^$all
 ||parazitolnd.com^$all
 ||bezpupku.cz^$all
 ||lipox.cz^$all
@@ -906,13 +904,8 @@
 ||estersafranek.cz^$all
 ||myshopify.com^$all
 ||insidemarketdataevents.xyz^$all
-||lifemymall.com^$all
 ||koronavirus.in^$all
-||probaterie.cz^$all
-||faux.cz^$all
 ||kafar.cz^$all
-||radcesdkarty.cz^$all
-||technet4u.cz^$all
 ||cleanvisionnd.com^$all
 ||canabis-oil.com^$all
 ||prodazhatovara.com^$all
