@@ -9,9 +9,9 @@ PHP script "coi.php" umí tyto data stahovat a vytvořit z nich TXT soubor "coi_
 Tento script si můžete nasadit na svůj vlastní server a spouštět jej jako cron (ideálně 1x denně) a vytvářet si pro své klienty ČOI adblock list (filtr).
 <br /><br />
 
-**Adresa AdBlock listu (zdroj GitHub.com):** **https://raw.githubusercontent.com/oubrecht-com/coi-adblock-list/main/coi_adblock.txt**<br />
+**Adresa AdBlock listu:**<br />**https://raw.githubusercontent.com/oubrecht-com/coi-adblock-list/main/coi_adblock.txt**<br />
 
-**Adresa AdBlock listu pro AdGuard Desktop (zdroj GitHub.com):** **https://raw.githubusercontent.com/oubrecht-com/coi-adblock-list/main/coi_adblock_adguard.txt**<br />
+**Adresa AdBlock listu pro AdGuard Desktop:**<br />**https://raw.githubusercontent.com/oubrecht-com/coi-adblock-list/main/coi_adblock_adguard.txt**<br />
 
 
 Zkusit přidat do AdBlocku tímto odkazem: https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Foubrecht-com%2Fcoi-adblock-list%2Fmain%2Fcoi_adblock.txt
