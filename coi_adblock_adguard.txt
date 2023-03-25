@@ -1,12 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1679623862
+! Version: 1679710261
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||obchod-feng-shui.cz^$all
+||dvdfunny.top^$all
 ||evehaojk.com^$all
 ||legeroeshop.com^$all
 ||sexyplastenky.cz^$all
@@ -574,7 +576,6 @@
 ||superbinvest.com^$all
 ||worldandbitcoin.com^$all
 ||redbean.cz^$all
-||prazska-moda.cz^$all
 ||communityoffersdaily.com^$all
 ||cannadiabv.com^$all
 ||euro-to-btc.com^$all
@@ -655,24 +656,13 @@
 ||medicphytos.com^$all
 ||landevrv.com^$all
 ||botybrooks.cz^$all
-||unibrus.cz^$all
 ||mollio.cz^$all
 ||juum.cz^$all
-||grafarna.com^$all
 ||ketodieti.com^$all
-||lukasuhlir.cz^$all
 ||gotocmall.com^$all
-||beunio.com^$all
-||polikax.com^$all
 ||vasesleva.eu^$all
-||levneoutdoorboty.cz^$all
-||outdoorbotylevne.cz^$all
-||vagabondboty.cz^$all
 ||levny2021.com^$all
-||botyconversecz.cz^$all
 ||ketodietv.com^$all
-||habitdusk.com^$all
-||kiturec.com^$all
 ||mynutraresearch.com^$all
 ||fixmyppcc.site^$all
 ||cannajv.com^$all
