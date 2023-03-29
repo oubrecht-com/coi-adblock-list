@@ -1,12 +1,17 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1679969461
+! Version: 1680055861
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||neweraksiltovka.cz^
+||keenlevne.cz^
+||goldengooseboty.cz^
+||demoniaczeshop.cz^
+||crypsome.click^
 ||obchod-feng-shui.cz^
 ||dvdfunny.top^
 ||evehaojk.com^
@@ -1011,26 +1016,19 @@
 ||adam-elektro.cz^
 ||penzion68.cz^
 ||trackey.store^
-||pkstudio-dobris.cz^
 ||kubasmrz.cz^
-||karsit-garden.cz^
 ||nikecz.com^
-||thevarboosterlb.com^
 ||pandoracz.com^
-||bauer-bandage.cz^
 ||msfplzen.cz^
-||kockafe.cz^
 ||msomska.cz^
 ||registr-dluzniku-k-nahlednuti-zdarma.cz^
 ||cerd.cz^
 ||centralniregistrdluzniku.cz^
 ||premium-perfume.shop^
 ||airlevne.cz^
-||bozi-aukce.cz^
 ||forhealth.me^
 ||bioveliss-tabs.com^
 ||bestofferintheworld.com^
-||kominyreindl.cz^
 ||prizniveparfemy.xyz^
 ||srpenec.cz^
 ||vogueangle.com^
