@@ -1,12 +1,17 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1679965861
+! Version: 1680052261
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||neweraksiltovka.cz^$all
+||keenlevne.cz^$all
+||goldengooseboty.cz^$all
+||demoniaczeshop.cz^$all
+||crypsome.click^$all
 ||obchod-feng-shui.cz^$all
 ||dvdfunny.top^$all
 ||evehaojk.com^$all
@@ -1011,26 +1016,19 @@
 ||adam-elektro.cz^$all
 ||penzion68.cz^$all
 ||trackey.store^$all
-||pkstudio-dobris.cz^$all
 ||kubasmrz.cz^$all
-||karsit-garden.cz^$all
 ||nikecz.com^$all
-||thevarboosterlb.com^$all
 ||pandoracz.com^$all
-||bauer-bandage.cz^$all
 ||msfplzen.cz^$all
-||kockafe.cz^$all
 ||msomska.cz^$all
 ||registr-dluzniku-k-nahlednuti-zdarma.cz^$all
 ||cerd.cz^$all
 ||centralniregistrdluzniku.cz^$all
 ||premium-perfume.shop^$all
 ||airlevne.cz^$all
-||bozi-aukce.cz^$all
 ||forhealth.me^$all
 ||bioveliss-tabs.com^$all
 ||bestofferintheworld.com^$all
-||kominyreindl.cz^$all
 ||prizniveparfemy.xyz^$all
 ||srpenec.cz^$all
 ||vogueangle.com^$all
