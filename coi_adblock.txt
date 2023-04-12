@@ -1,12 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1681179061
+! Version: 1681265461
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||doctormartens.cz^
+||dannerboty.cz^
+||dannercz.cz^
+||halifechic.com^
 ||vamano.cz^
 ||clarkscz.cz^
 ||thirteenpleasant.cc^
@@ -499,9 +503,6 @@
 ||cpaggette3.com^
 ||naturaltovars.com^
 ||drdermr.com^
-||martenspraha.cz^
-||botykeen.cz^
-||bymamiii.cz^
 ||bagscnshop.top^
 ||mraky-kostek.cz^
 ||vivobarefootcz.cz^
@@ -532,23 +533,14 @@
 ||shopsoutlet2021.ru^
 ||onrunningboty.com^
 ||onlinefactory2021.ru^
-||calvinkleinlevne.cz^
 ||bestlive.cz^
-||modaaz.cz^
-||superlevnecz.com^
-||tevapraha.cz^
-||fashionyes.cz^
 ||oblecsito.cz^
-||peoplebests.com^
 ||central2013.eu^
-||wellzdravs.com^
-||tevaczechrepublic.cz^
 ||doctordays.com^
 ||laureshop.eu^
 ||zdravydetox.sk^
 ||doctorlights.com^
 ||gmtpcy.com^
-||optimovend.com^
 ||breedenesintacon.tk^
 ||flekobalm.pro^
 ||lillyblock.com^
