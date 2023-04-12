@@ -1,12 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1681175461
+! Version: 1681261861
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||doctormartens.cz^$all
+||dannerboty.cz^$all
+||dannercz.cz^$all
+||halifechic.com^$all
 ||vamano.cz^$all
 ||clarkscz.cz^$all
 ||thirteenpleasant.cc^$all
@@ -499,9 +503,6 @@
 ||cpaggette3.com^$all
 ||naturaltovars.com^$all
 ||drdermr.com^$all
-||martenspraha.cz^$all
-||botykeen.cz^$all
-||bymamiii.cz^$all
 ||bagscnshop.top^$all
 ||mraky-kostek.cz^$all
 ||vivobarefootcz.cz^$all
@@ -532,23 +533,14 @@
 ||shopsoutlet2021.ru^$all
 ||onrunningboty.com^$all
 ||onlinefactory2021.ru^$all
-||calvinkleinlevne.cz^$all
 ||bestlive.cz^$all
-||modaaz.cz^$all
-||superlevnecz.com^$all
-||tevapraha.cz^$all
-||fashionyes.cz^$all
 ||oblecsito.cz^$all
-||peoplebests.com^$all
 ||central2013.eu^$all
-||wellzdravs.com^$all
-||tevaczechrepublic.cz^$all
 ||doctordays.com^$all
 ||laureshop.eu^$all
 ||zdravydetox.sk^$all
 ||doctorlights.com^$all
 ||gmtpcy.com^$all
-||optimovend.com^$all
 ||breedenesintacon.tk^$all
 ||flekobalm.pro^$all
 ||lillyblock.com^$all
