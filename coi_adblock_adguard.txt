@@ -1,12 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1681693862
+! Version: 1681780261
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||domainjk.com^$all
+||xsykl.shop^$all
+||siosail.shop^$all
 ||freshservice.life^$all
 ||bizcomppro.com^$all
 ||neznost.shop^$all
@@ -72,7 +75,6 @@
 ||advyprodej.cz^$all
 ||porzadny.shop^$all
 ||mxsania.com^$all
-||morekostek.cz^$all
 ||vinreport.eu^$all
 ||delivery9035.info^$all
 ||caterpillarprodej.cz^$all
@@ -580,23 +582,13 @@
 ||form-ulaheart.com^$all
 ||wellness-sprchovahlavice-cz.com^$all
 ||hunterholinky.cc^$all
-||forcebtcofferway.com^$all
-||global-mentors.net^$all
-||beautyrefuse.com^$all
-||secureifx.com^$all
 ||superbinvest.com^$all
 ||worldandbitcoin.com^$all
-||redbean.cz^$all
 ||communityoffersdaily.com^$all
 ||cannadiabv.com^$all
-||euro-to-btc.com^$all
 ||cblhota.cz^$all
-||livingzone.cz^$all
-||dovcalevne.cz^$all
 ||gamsgo.com^$all
 ||nanovein.eu^$all
-||nbdecstore.cz^$all
-||brikbrno.cz^$all
 ||hunterholinky.cz^$all
 ||thexdrone.org^$all
 ||lekarna-eshop.com^$all
