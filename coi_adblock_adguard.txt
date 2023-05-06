@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1683249062
+! Version: 1683335462
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
@@ -382,7 +382,6 @@
 ||easyland.top^$all
 ||snapon-smilecz.com^$all
 ||merrellvyprodej.cz^$all
-||maxnakup.cz^$all
 ||tevabotystore.cz^$all
 ||riekereshopcz.cz^$all
 ||blundstoneboty.com^$all
@@ -769,29 +768,18 @@
 ||tv24news.net^$all
 ||alloverbodysupport.com^$all
 ||infoscrolling.com^$all
-||medicalnews24.cz^$all
 ||goforthebest24.com^$all
 ||wwnews24.su^$all
-||topteam-preland.com^$all
 ||czfotbalshop.com^$all
-||drmartenssleva.cz^$all
 ||xcartpro.com^$all
 ||perfdealpromo.com^$all
-||useyourbestbrain.com^$all
 ||economistguide.com^$all
-||primigishop.cz^$all
-||eccopraha.cz^$all
-||relaxenglish.cz^$all
-||ifotbalcz.com^$all
-||finerglory.com^$all
 ||jsjavornik.cz^$all
 ||beauty-goods.biz^$all
 ||webflow.io^$all
-||kabirshoe.com^$all
 ||blghip.ru^$all
 ||blockchain.com^$all
 ||cryptoeddu.com^$all
-||gigantnd.com^$all
 ||cpagetti5.com^$all
 ||cpgtshop2.com^$all
 ||pageanket.com^$all
