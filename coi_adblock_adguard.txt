@@ -1,12 +1,17 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1683594661
+! Version: 1683681061
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||shuqaim.com^$all
+||aldoeshop.cz^$all
+||bosobotyleguano.cz^$all
+||bugattiboty.cz^$all
+||qiaoxioo.com^$all
 ||avesaleshop.com^$all
 ||mymair.com^$all
 ||qikoping.com^$all
@@ -341,30 +346,14 @@
 ||maxiholky.cz^$all
 ||luggey.com^$all
 ||lemonbrandco.com^$all
-||hikeboty.cz^$all
-||eccoczeshop.cz^$all
 ||demoniabotyeshop.cz^$all
-||keenbotyeshop.cz^$all
-||converseczsleva.cz^$all
-||vibramoutlet.cz^$all
 ||palladium-praha.com^$all
 ||zhytd.shop^$all
-||nikevyprodej.cz^$all
 ||systemmeet.com^$all
-||obuvvyprodej.cz^$all
-||salomoneshop.cz^$all
-||sakrbleproject.cz^$all
-||keenbotyvyprodej.cz^$all
-||tommyhilfigereshop.cz^$all
-||hokaoutlet.cz^$all
-||bearpawoutlet.cz^$all
 ||vetacan.cz^$all
-||vivobarefootvyprodej.cz^$all
 ||myvention.com^$all
 ||hefov.shop^$all
 ||2022onlineoutlet.ru^$all
-||obuvcroc.cz^$all
-||vivobarefootslevy.cz^$all
 ||gigantv.com^$all
 ||cokobelo.com^$all
 ||manicky.cz^$all
