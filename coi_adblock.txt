@@ -1,12 +1,17 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1683598261
+! Version: 1683684662
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||shuqaim.com^
+||aldoeshop.cz^
+||bosobotyleguano.cz^
+||bugattiboty.cz^
+||qiaoxioo.com^
 ||avesaleshop.com^
 ||mymair.com^
 ||qikoping.com^
@@ -341,30 +346,14 @@
 ||maxiholky.cz^
 ||luggey.com^
 ||lemonbrandco.com^
-||hikeboty.cz^
-||eccoczeshop.cz^
 ||demoniabotyeshop.cz^
-||keenbotyeshop.cz^
-||converseczsleva.cz^
-||vibramoutlet.cz^
 ||palladium-praha.com^
 ||zhytd.shop^
-||nikevyprodej.cz^
 ||systemmeet.com^
-||obuvvyprodej.cz^
-||salomoneshop.cz^
-||sakrbleproject.cz^
-||keenbotyvyprodej.cz^
-||tommyhilfigereshop.cz^
-||hokaoutlet.cz^
-||bearpawoutlet.cz^
 ||vetacan.cz^
-||vivobarefootvyprodej.cz^
 ||myvention.com^
 ||hefov.shop^
 ||2022onlineoutlet.ru^
-||obuvcroc.cz^
-||vivobarefootslevy.cz^
 ||gigantv.com^
 ||cokobelo.com^
 ||manicky.cz^
