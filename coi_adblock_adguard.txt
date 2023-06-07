@@ -1,12 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1686013862
+! Version: 1686100262
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||koifootwearoutlet.cz^$all
+||asicsczechrepublic.cz^$all
+||merrellbotycz.cz^$all
+||skims.cz^$all
+||kamagralove.shop^$all
+||tretryshimano.cz^$all
+||amaliepraha.com^$all
 ||sweorou.com^$all
 ||c-and-a-cz.cz^$all
 ||tomspraha.cz^$all
@@ -275,18 +282,9 @@
 ||jordanboty.cz^$all
 ||1galerie.cz^$all
 ||vaclavekjiri.cz^$all
-||talirovepruziny.cz^$all
 ||gaborboty.cz^$all
-||rekreacenachate.cz^$all
-||mojecityklub.cz^$all
-||gapp-cabtech.cz^$all
-||euromafas.cz^$all
 ||radical-wear.cz^$all
-||nunvar.cz^$all
-||drakarys.cz^$all
-||disney-obleceni.cz^$all
 ||caterpillarboty.com^$all
-||salomonshopczoutlet.cz^$all
 ||hanwagboty.com^$all
 ||fredie.cz^$all
 ||joot.cz^$all
