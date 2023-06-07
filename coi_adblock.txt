@@ -1,12 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1686017462
+! Version: 1686103862
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||koifootwearoutlet.cz^
+||asicsczechrepublic.cz^
+||merrellbotycz.cz^
+||skims.cz^
+||kamagralove.shop^
+||tretryshimano.cz^
+||amaliepraha.com^
 ||sweorou.com^
 ||c-and-a-cz.cz^
 ||tomspraha.cz^
@@ -275,18 +282,9 @@
 ||jordanboty.cz^
 ||1galerie.cz^
 ||vaclavekjiri.cz^
-||talirovepruziny.cz^
 ||gaborboty.cz^
-||rekreacenachate.cz^
-||mojecityklub.cz^
-||gapp-cabtech.cz^
-||euromafas.cz^
 ||radical-wear.cz^
-||nunvar.cz^
-||drakarys.cz^
-||disney-obleceni.cz^
 ||caterpillarboty.com^
-||salomonshopczoutlet.cz^
 ||hanwagboty.com^
 ||fredie.cz^
 ||joot.cz^
