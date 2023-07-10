@@ -1,12 +1,20 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1688868661
+! Version: 1688955061
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||meilizhubao.top^
+||warby-parker.cz^
+||ryderwear.cz^
+||tikkisandale.cz^
+||axelarigato.cz^
+||espadrilkytoms.cz^
+||novelabel.com^
+||kupi-cz.com^
 ||corbata.shop^
 ||czat.shop^
 ||itdigitalbgnexus.life^
