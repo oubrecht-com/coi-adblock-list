@@ -1,12 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1696295461
+! Version: 1696381862
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||nobulleshops.cz^$all
 ||lornajane-cz.cz^$all
 ||dunelondonboty.cz^$all
 ||tory-burch.cz^$all
@@ -45,7 +46,6 @@
 ||paulgreenboty.cz^$all
 ||victoriasecretcz.cz^$all
 ||articblast.co^$all
-||vrama.eu^$all
 ||beintro.site^$all
 ||goslakinvest.pro^$all
 ||deeplin.shop^$all
@@ -194,11 +194,8 @@
 ||21sstylees.com^$all
 ||avesaleshop.com^$all
 ||neweraksiltovka.cz^$all
-||keenlevne.cz^$all
 ||goldengooseboty.cz^$all
-||demoniaczeshop.cz^$all
 ||crypsome.click^$all
-||obchod-feng-shui.cz^$all
 ||dvdfunny.top^$all
 ||evehaojk.com^$all
 ||legeroeshop.com^$all
@@ -237,7 +234,6 @@
 ||e-energy-official.com^$all
 ||sale-tale.com^$all
 ||newposti.online^$all
-||advyprodej.cz^$all
 ||porzadny.shop^$all
 ||mxsania.com^$all
 ||vinreport.eu^$all
