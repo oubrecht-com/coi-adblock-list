@@ -4,7 +4,6 @@
 Tento filtr je postavený na veřejných datech dostupných na adrese České obchodní inspekce:<br />
 https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv<br />
 https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/
-
 <br /><br />
 
 **Adresa AdBlock listu:**<br />**https://raw.githubusercontent.com/oubrecht-com/coi-adblock-list/main/coi_adblock.txt**<br />
@@ -19,8 +18,3 @@ https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.c
 <br />
 
 Tento adblock list je na serveru vytvářen 1x denně. Dostupnost serveru a správnost dat není nijak garantována.
-
-
-
-
-Script je zdarma ke stažení a použití k soukromým i firemním účelům.
