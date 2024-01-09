@@ -1,12 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1704679861
+! Version: 1704766262
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||cos-eshop.cz^$all
+||latest-polarized.com^$all
+||gymshark-cz-shop.com^$all
+||amol.cz^$all
 ||obuvbaldinini.cz^$all
 ||khaite.cz^$all
 ||hi-tecboty.cz^$all
@@ -55,7 +59,6 @@
 ||grtwji.store^$all
 ||cez-group.digital^$all
 ||qsauner.com^$all
-||caterpilarboty.cz^$all
 ||alohasboty.cz^$all
 ||ariat.cz^$all
 ||raphacz.cz^$all
@@ -97,11 +100,9 @@
 ||alevlioto.com^$all
 ||botyvagabond.cz^$all
 ||nobulleshops.cz^$all
-||lornajane-cz.cz^$all
 ||dunelondonboty.cz^$all
 ||tory-burch.cz^$all
 ||spydercz.cz^$all
-||ibsnonline.cz^$all
 ||uniqlo-cz.cz^$all
 ||tohereibuy.com^$all
 ||zerogravity.cz^$all
@@ -112,7 +113,6 @@
 ||hellyhansencz.cz^$all
 ||ipanemasandaly.cz^$all
 ||offerte-mitiche.com^$all
-||persolbryle.cz^$all
 ||hitecczeshop.cz^$all
 ||vivobarefootcze-shop.cz^$all
 ||manleo.cz^$all
@@ -195,7 +195,6 @@
 ||sauconyczechrepublic.cz^$all
 ||hokacz.cz^$all
 ||puresuit.shop^$all
-||asicsbotyeshop.cz^$all
 ||wiseandhealthyacademy.com^$all
 ||rulniw.com^$all
 ||freelato.shop^$all
@@ -220,38 +219,22 @@
 ||tretryshimano.cz^$all
 ||amaliepraha.com^$all
 ||sweorou.com^$all
-||c-and-a-cz.cz^$all
-||tomspraha.cz^$all
-||conversevyprodej.cz^$all
-||puma-cz.cz^$all
-||huntereshopcz.cz^$all
-||vivo-barefoot-cz.cz^$all
 ||camperbotycz.cz^$all
-||kedscz.cz^$all
-||samsonitecz.cz^$all
 ||shitforyou.eu^$all
 ||solarniledlampa-cz.com^$all
 ||outamost.com^$all
 ||newdigitalgenius.life^$all
 ||labetcod.com^$all
-||asicsczeshop.cz^$all
 ||sanukpraha.cz^$all
-||asicspraha.cz^$all
 ||thecomplication.cz^$all
 ||icebugcz.com^$all
-||altra-cz.cz^$all
 ||shuqaim.com^$all
 ||aldoeshop.cz^$all
-||bosobotyleguano.cz^$all
-||bugattiboty.cz^$all
 ||qiaoxioo.com^$all
 ||avesaleshop.com^$all
 ||mymair.com^$all
 ||qikoping.com^$all
 ||futuremoderntech.life^$all
-||quay-australia.cz^$all
-||oneractive.cz^$all
-||vionicobuv.cz^$all
 ||misetee.top^$all
 ||fashicolors.com^$all
 ||digitalxperience.life^$all
@@ -264,15 +247,10 @@
 ||xsykl.shop^$all
 ||siosail.shop^$all
 ||freshservice.life^$all
-||bizcomppro.com^$all
 ||neznost.shop^$all
 ||alimoder.com^$all
-||doctormartens.cz^$all
-||dannerboty.cz^$all
-||dannercz.cz^$all
 ||halifechic.com^$all
 ||vamano.cz^$all
-||clarkscz.cz^$all
 ||thirteenpleasant.cc^$all
 ||505910.site^$all
 ||odprezony.shop^$all
@@ -280,8 +258,6 @@
 ||myshopify.com^$all
 ||21sstylees.com^$all
 ||avesaleshop.com^$all
-||neweraksiltovka.cz^$all
-||goldengooseboty.cz^$all
 ||crypsome.click^$all
 ||dvdfunny.top^$all
 ||evehaojk.com^$all
@@ -300,11 +276,8 @@
 ||valitoshop.com^$all
 ||emnot.cz^$all
 ||spagetlink.com^$all
-||top-comp.cz^$all
 ||rayray.sk^$all
-||drmartensczechrepublic.cz^$all
 ||opbfd.shop^$all
-||catchoffersnow24.com^$all
 ||tsanlo.com^$all
 ||topeo.cz^$all
 ||shoesetogs.com^$all
@@ -314,7 +287,6 @@
 ||qsadf.shop^$all
 ||topofferss4you.com^$all
 ||adhesionplum.com^$all
-||bstefancy.com^$all
 ||myshopify.com^$all
 ||deutscheinvestitionen.com^$all
 ||cystov.com^$all
@@ -325,15 +297,10 @@
 ||mxsania.com^$all
 ||vinreport.eu^$all
 ||delivery9035.info^$all
-||caterpillarprodej.cz^$all
 ||nobulleshop.cz^$all
 ||ztuuwk.com^$all
 ||enxh.xyz^$all
 ||shein.com^$all
-||eccoshopscz.cz^$all
-||caterpillarsleva.cz^$all
-||caterpillarpraha.cz^$all
-||cateshop.cz^$all
 ||lowaboty.cz^$all
 ||cpaggette4.com^$all
 ||promedhealthyblog.com^$all
