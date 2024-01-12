@@ -1,12 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1704939061
+! Version: 1705025461
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||voritashop.com^$all
 ||pokeme.cz^$all
 ||cos-eshop.cz^$all
 ||latest-polarized.com^$all
@@ -306,64 +307,36 @@
 ||cpaggette4.com^$all
 ||promedhealthyblog.com^$all
 ||cpagettipotok.com^$all
-||merrellcz.cz^$all
-||thorogood.cz^$all
 ||samueloi.shop^$all
 ||styledawn.com^$all
 ||yourketo.diet^$all
 ||woffitee.shop^$all
 ||zlutamrkev.cz^$all
-||botylowashop.cz^$all
-||botypikolinoseshop.cz^$all
-||mykitashop.cz^$all
 ||lasmpo.com^$all
 ||aloyogacz.com^$all
 ||kristinn.shop^$all
 ||europebestshop.com^$all
-||arcteryxbundacz.com^$all
 ||keen-cz.com^$all
 ||elfshop.cz^$all
 ||fitoremedyheres.com^$all
-||t-brand.cz^$all
 ||15sfashios.com^$all
 ||i-i-i.top^$all
 ||geoxczeshop.cz^$all
-||vogange.com^$all
 ||zpasbl.com^$all
-||ugglevne.cz^$all
-||geoxoutletonline.cz^$all
-||gymsharkoutlet.cz^$all
-||legerobotyeshop.cz^$all
-||botyolang.cz^$all
 ||dopebunda.cz^$all
-||vessiboty.cz^$all
 ||urbantrend.cz^$all
-||gymsharkleginy-cz.cz^$all
-||hush-puppies.cz^$all
-||lowabotyslevy.cz^$all
-||onrunningvyprodej.cz^$all
-||onrunningbotypraha.cz^$all
-||nikebotysleva.cz^$all
-||arcteryxbunda.cz^$all
 ||ceskomikulovskakuchyne.com^$all
 ||milead.click^$all
-||timberland-boty.cz^$all
-||vivobarefootboty.cz^$all
 ||systemonl.xyz^$all
-||josefseibelvyprodej.cz^$all
-||botypikolinos.cz^$all
 ||topvision-cz.com^$all
 ||guessczonline.com^$all
 ||markmax.site^$all
 ||evasiveinfo.com^$all
-||dreampads.cz^$all
 ||suprabotyshoppraha.cz^$all
 ||boilingsmart.com^$all
 ||demonlaboty.cz^$all
-||nikebotyairmax.cz^$all
 ||speedcrossnettbutikk.com^$all
 ||theantilife.com^$all
-||vibramcz.com^$all
 ||lifebeautyme.com^$all
 ||wotoda.com^$all
 ||ocenter.shop^$all
@@ -372,7 +345,6 @@
 ||abyte.online^$all
 ||jlgdr.shop^$all
 ||barbourcz.com^$all
-||industriousgemi.com^$all
 ||dukex.live^$all
 ||garni.online^$all
 ||ethikaboxerky.cz^$all
@@ -380,58 +352,37 @@
 ||postazadaco.cz^$all
 ||kartalin-mast.cz^$all
 ||martenscz.com^$all
-||tenisky-cz.com^$all
 ||seekpo.shop^$all
 ||obalynatelefon.cz^$all
 ||fuyas.shop^$all
-||buy-cheap.eu^$all
 ||bookevenement.com^$all
-||industriousgemi.com^$all
 ||czech-republic-invest.com^$all
 ||newhealthylifes.com^$all
-||vyuvifit.com^$all
 ||invest-czech.com^$all
 ||czech-platforma.com^$all
-||gemisquash.com^$all
-||penitentinnovation.com^$all
-||northfaceczeshop.cz^$all
 ||puma-boty.cz^$all
 ||vessieshop.cz^$all
-||vivobarefooteshop.cz^$all
 ||rabbunda.cz^$all
 ||vejaeshop.cz^$all
 ||underarmour-cz.cz^$all
-||tevasandaly.cz^$all
 ||landpld.com^$all
 ||lululemonoutlet.cz^$all
 ||gymsharkcz.cz^$all
-||chacosandaly.cz^$all
-||cariumaboty.cz^$all
-||botyuggsleva.cz^$all
-||nikebotyvyprodej.cz^$all
 ||eccobotysleva.cz^$all
-||asicsvyprodej.cz^$all
 ||tyflogalerie.cz^$all
-||nikeshopcz.cz^$all
-||skechersprodej.cz^$all
 ||wanderheat.com^$all
-||e-brands.cz^$all
 ||kfxgw.shop^$all
 ||kidszona.cz^$all
 ||timeframed.art^$all
 ||salomoncz.com^$all
-||3d-pero-cz.com^$all
 ||profit-farma.com^$all
 ||sanukeshop.cz^$all
-||hi-teceshop.cz^$all
-||ryanandtisha.com^$all
 ||urbaner-store.com^$all
 ||nojetlagbook.com^$all
 ||nuubu.com^$all
 ||newherbalfito.com^$all
 ||alfazv.com^$all
 ||guardys.cz^$all
-||crocslevne.cz^$all
 ||longchampkabelka.cz^$all
 ||vivobarefootczeshop.cz^$all
 ||botyicebugeshop.cz^$all
