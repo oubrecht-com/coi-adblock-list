@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1715649062
+! Version: 1715735461
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
@@ -62,7 +62,6 @@
 ||skechersczechrepublic.cz^$all
 ||nicliquid.com^$all
 ||casioslovensko.sk^$all
-||ringlights.cz^$all
 ||botyloake.com^$all
 ||saucony-slovensko.sk^$all
 ||qsggh.com^$all
@@ -627,7 +626,6 @@
 ||saleegoods.com^$all
 ||suggesthome.com^$all
 ||mluvicikrecek-cz.com^$all
-||bonky.sk^$all
 ||booho.sk^$all
 ||guilaiyoushe.com^$all
 ||poplatky-zpet.cz^$all
@@ -844,7 +842,6 @@
 ||vjehlici.cz^$all
 ||orcela.cz^$all
 ||shoponline2020.net^$all
-||bonky.cz^$all
 ||lookbrew.com^$all
 ||sweetshoppingathome.com^$all
 ||originalgoodsinternational.com^$all
