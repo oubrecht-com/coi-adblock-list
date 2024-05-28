@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1716772261
+! Version: 1716858661
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
@@ -174,7 +174,6 @@
 ||mrdeny.shop^$all
 ||ciklasilow-invest.pro^$all
 ||mingolka-investment.pro^$all
-||booho.cz^$all
 ||vilaserinvest.pro^$all
 ||finlando.sk^$all
 ||btlua.shop^$all
@@ -371,7 +370,6 @@
 ||valitoshop.com^$all
 ||emnot.cz^$all
 ||spagetlink.com^$all
-||rayray.sk^$all
 ||opbfd.shop^$all
 ||tsanlo.com^$all
 ||topeo.cz^$all
@@ -487,7 +485,6 @@
 ||gamey.cz^$all
 ||radical-wear.cz^$all
 ||fredie.cz^$all
-||joot.cz^$all
 ||fashionfashion.cz^$all
 ||lujtf.shop^$all
 ||tg-lead.space^$all
@@ -606,7 +603,6 @@
 ||abshuzhi.com^$all
 ||jackwolfskinpraha.com^$all
 ||meek.cz^$all
-||lapert.cz^$all
 ||fashion-mode.cz^$all
 ||coffeeboy.cz^$all
 ||vanspraha.cz^$all
@@ -811,7 +807,6 @@
 ||medicphytos.com^$all
 ||landevrv.com^$all
 ||botybrooks.cz^$all
-||juum.cz^$all
 ||ketodieti.com^$all
 ||gotocmall.com^$all
 ||vasesleva.eu^$all
@@ -1040,7 +1035,6 @@
 ||lumeo.cz^$all
 ||velomont.com^$all
 ||lunzo.cz^$all
-||rivalenti.cz^$all
 ||huglo.sk^$all
 ||seekmob.com^$all
 ||bestceler.cz^$all
