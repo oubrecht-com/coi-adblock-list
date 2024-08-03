@@ -1,12 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1722564662
+! Version: 1722651061
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||olgneshop.com^
 ||allbirdsboty.cz^
 ||cos-sale.shop^
 ||speedydiscount-cesko.com^
@@ -1204,33 +1205,9 @@
 ||securesmrt-dt.com^
 ||thebitcoincompass.com^
 ||topslevy.online^
-||pharmworld.icu^
 ||world-of-earnings.com^
-||kodiaq.eu^
-||cosmito.cz^
-||inau.cz^
-||artro-vex.site^
-||kupparfem.com^
-||ecwid.com^
-||onlineslevy.de^
-||the-best-deal-for-you.com^
-||levnevodnidymky.cz^
 ||moja-cajovna.cz^
 ||lekarna-protebe.cz^
-||klubklid.cz^
-||1saty.cz^
-||bioretin-official.site^
-||slocz.com^
-||ceprobe.cz^
-||i-deal24.com^
-||lieferungpillen.ltd^
-||truthofthisworld.com^
-||pragueactivators.cz^
-||theartrovex.com^
-||titan-man.me^
-||shopnaturenow.com^
-||worldinfoclub.com^
-||bestrcs.com^
 ||krcma-marketa.cz^
 ||cukrovivsetin.cz^
 ||areareklama.cz^
@@ -1241,8 +1218,6 @@
 ||theerogan.com^
 ||zbynek-kohout.cz^
 ||xdrivestudio.cz^
-||worldinfoclub.com^
-||bestpromocenter.com^
 ||zelenetrhy.cz^
 ||fanshopzlin.cz^
 ||bestpromocenter.com^
