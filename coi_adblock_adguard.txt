@@ -1,12 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1722561062
+! Version: 1722647462
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||olgneshop.com^$all
 ||allbirdsboty.cz^$all
 ||cos-sale.shop^$all
 ||speedydiscount-cesko.com^$all
@@ -1204,33 +1205,9 @@
 ||securesmrt-dt.com^$all
 ||thebitcoincompass.com^$all
 ||topslevy.online^$all
-||pharmworld.icu^$all
 ||world-of-earnings.com^$all
-||kodiaq.eu^$all
-||cosmito.cz^$all
-||inau.cz^$all
-||artro-vex.site^$all
-||kupparfem.com^$all
-||ecwid.com^$all
-||onlineslevy.de^$all
-||the-best-deal-for-you.com^$all
-||levnevodnidymky.cz^$all
 ||moja-cajovna.cz^$all
 ||lekarna-protebe.cz^$all
-||klubklid.cz^$all
-||1saty.cz^$all
-||bioretin-official.site^$all
-||slocz.com^$all
-||ceprobe.cz^$all
-||i-deal24.com^$all
-||lieferungpillen.ltd^$all
-||truthofthisworld.com^$all
-||pragueactivators.cz^$all
-||theartrovex.com^$all
-||titan-man.me^$all
-||shopnaturenow.com^$all
-||worldinfoclub.com^$all
-||bestrcs.com^$all
 ||krcma-marketa.cz^$all
 ||cukrovivsetin.cz^$all
 ||areareklama.cz^$all
@@ -1241,8 +1218,6 @@
 ||theerogan.com^$all
 ||zbynek-kohout.cz^$all
 ||xdrivestudio.cz^$all
-||worldinfoclub.com^$all
-||bestpromocenter.com^$all
 ||zelenetrhy.cz^$all
 ||fanshopzlin.cz^$all
 ||bestpromocenter.com^$all
