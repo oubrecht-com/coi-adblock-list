@@ -1,12 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1724375461
+! Version: 1724461861
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||stoneislandcz.cz^$all
+||resellempire.store^$all
+||yizhiyu.shop^$all
 ||ksdg.store^$all
 ||botyaltra.com^$all
 ||miuyistore.com^$all
@@ -1216,28 +1219,14 @@
 ||areareklama.cz^$all
 ||provadenistaveb.eu^$all
 ||bestseller-super.ru^$all
-||snake4you.com^$all
 ||thtex.cz^$all
 ||theerogan.com^$all
-||zbynek-kohout.cz^$all
-||xdrivestudio.cz^$all
-||zelenetrhy.cz^$all
-||fanshopzlin.cz^$all
 ||bestpromocenter.com^$all
-||bestofferstar.com^$all
-||ecoslimmer.pro^$all
-||eurorcrally.cz^$all
-||xiomnia.com^$all
 ||flame-fashion.com^$all
 ||hokejovedresy.com^$all
-||curentlyoffer.com^$all
 ||product-club.com^$all
 ||czechmoda.com^$all
 ||zavlahy-cz.com^$all
-||newenergysaver.pro^$all
-||technoweek.info^$all
-||top-battery-adapter.com^$all
-||salesportal.cz^$all
 ||centrum-akci.com^$all
 ||magnufuel.com^$all
 ||valgomed.com^$all
