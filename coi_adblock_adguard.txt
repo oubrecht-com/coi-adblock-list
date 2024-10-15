@@ -1,12 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1728868262
+! Version: 1728954661
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||triumphdiscount.com^$all
+||achaet.com^$all
+||polenepariskabelkycz.com^$all
+||polene.cz^$all
 ||aercruft.com^$all
 ||tankphone-clearance.com^$all
 ||fixwalks.com^$all
