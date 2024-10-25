@@ -1,12 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1729735862
+! Version: 1729822261
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||buyonepay.com^
 ||triumphdiscount.com^
 ||achaet.com^
 ||polenepariskabelkycz.com^
@@ -488,7 +489,6 @@
 ||garni.online^
 ||ethikaboxerky.cz^
 ||ormolulondon.com^
-||postazadaco.cz^
 ||kartalin-mast.cz^
 ||martenscz.com^
 ||seekpo.shop^
