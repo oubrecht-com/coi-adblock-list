@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1732241462
+! Version: 1732327862
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
@@ -730,31 +730,13 @@
 ||marklv.cz^$all
 ||adbotyeshop.cz^$all
 ||besttovarsale.com^$all
-||geoxvyprodej.cz^$all
-||urbaner.cz^$all
-||drmartensvyprodej.cz^$all
 ||alkotoxv.com^$all
-||shduolian.com^$all
-||sladkynapad.cz^$all
-||vejaboty.cz^$all
-||canadagoosevyprodej.cz^$all
 ||hemorv.com^$all
 ||theproductcool.com^$all
-||american-supplements.cz^$all
-||beautyville.cz^$all
-||vip-brands.cz^$all
 ||tevabratislava.com^$all
-||pulsni-oxymetrcz.com^$all
-||skechersbotyobuv.cz^$all
-||shopsoutlet2021.ru^$all
-||onrunningboty.com^$all
-||onlinefactory2021.ru^$all
-||bestlive.cz^$all
-||oblecsito.cz^$all
 ||central2013.eu^$all
 ||doctordays.com^$all
 ||laureshop.eu^$all
-||zdravydetox.sk^$all
 ||doctorlights.com^$all
 ||gmtpcy.com^$all
 ||breedenesintacon.tk^$all
