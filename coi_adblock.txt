@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1732245062
+! Version: 1732331461
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
@@ -730,31 +730,13 @@
 ||marklv.cz^
 ||adbotyeshop.cz^
 ||besttovarsale.com^
-||geoxvyprodej.cz^
-||urbaner.cz^
-||drmartensvyprodej.cz^
 ||alkotoxv.com^
-||shduolian.com^
-||sladkynapad.cz^
-||vejaboty.cz^
-||canadagoosevyprodej.cz^
 ||hemorv.com^
 ||theproductcool.com^
-||american-supplements.cz^
-||beautyville.cz^
-||vip-brands.cz^
 ||tevabratislava.com^
-||pulsni-oxymetrcz.com^
-||skechersbotyobuv.cz^
-||shopsoutlet2021.ru^
-||onrunningboty.com^
-||onlinefactory2021.ru^
-||bestlive.cz^
-||oblecsito.cz^
 ||central2013.eu^
 ||doctordays.com^
 ||laureshop.eu^
-||zdravydetox.sk^
 ||doctorlights.com^
 ||gmtpcy.com^
 ||breedenesintacon.tk^
