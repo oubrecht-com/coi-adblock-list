@@ -1,12 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1733105461
+! Version: 1733191861
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||primediscount24.com^$all
+||euroboxy.cz^$all
+||sale-big.live^$all
 ||khujobundaeshop.com^$all
 ||modamilacek.cz^$all
 ||hs50bww.today^$all
@@ -443,36 +446,12 @@
 ||tsanlo.com^$all
 ||topeo.cz^$all
 ||shoesetogs.com^$all
-||hesjk.shop^$all
-||montecbunda.cz^$all
-||banatik.com^$all
-||qsadf.shop^$all
-||topofferss4you.com^$all
 ||adhesionplum.com^$all
-||myshopify.com^$all
-||deutscheinvestitionen.com^$all
 ||cystov.com^$all
 ||e-energy-official.com^$all
-||sale-tale.com^$all
-||newposti.online^$all
-||porzadny.shop^$all
-||mxsania.com^$all
-||vinreport.eu^$all
-||delivery9035.info^$all
 ||nobulleshop.cz^$all
-||ztuuwk.com^$all
-||enxh.xyz^$all
 ||shein.com^$all
-||lowaboty.cz^$all
-||cpaggette4.com^$all
-||promedhealthyblog.com^$all
-||cpagettipotok.com^$all
-||samueloi.shop^$all
-||styledawn.com^$all
 ||yourketo.diet^$all
-||woffitee.shop^$all
-||zlutamrkev.cz^$all
-||lasmpo.com^$all
 ||aloyogacz.com^$all
 ||kristinn.shop^$all
 ||europebestshop.com^$all
