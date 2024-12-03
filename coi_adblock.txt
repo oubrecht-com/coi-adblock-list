@@ -1,12 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1733109062
+! Version: 1733195462
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||primediscount24.com^
+||euroboxy.cz^
+||sale-big.live^
 ||khujobundaeshop.com^
 ||modamilacek.cz^
 ||hs50bww.today^
@@ -443,36 +446,12 @@
 ||tsanlo.com^
 ||topeo.cz^
 ||shoesetogs.com^
-||hesjk.shop^
-||montecbunda.cz^
-||banatik.com^
-||qsadf.shop^
-||topofferss4you.com^
 ||adhesionplum.com^
-||myshopify.com^
-||deutscheinvestitionen.com^
 ||cystov.com^
 ||e-energy-official.com^
-||sale-tale.com^
-||newposti.online^
-||porzadny.shop^
-||mxsania.com^
-||vinreport.eu^
-||delivery9035.info^
 ||nobulleshop.cz^
-||ztuuwk.com^
-||enxh.xyz^
 ||shein.com^
-||lowaboty.cz^
-||cpaggette4.com^
-||promedhealthyblog.com^
-||cpagettipotok.com^
-||samueloi.shop^
-||styledawn.com^
 ||yourketo.diet^
-||woffitee.shop^
-||zlutamrkev.cz^
-||lasmpo.com^
 ||aloyogacz.com^
 ||kristinn.shop^
 ||europebestshop.com^
