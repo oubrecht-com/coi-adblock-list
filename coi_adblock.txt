@@ -1,12 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1736305862
+! Version: 1736392262
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||inuikiicz.cz^
+||Ortovox-eu.shop^
 ||coseshopcz.cz^
 ||zaraeshop.cz^
 ||wildmooncz.shop^
@@ -17,7 +19,6 @@
 ||otranquilityw.lol^
 ||biux.net^
 ||novak-praha.cz^
-||unlqlo-cz.cz^
 ||unlqlo-cz.cz^
 ||pepejeanseshopcz.cz^
 ||boty-nobull-cz.cz^
@@ -177,7 +178,6 @@
 ||oggibenessere.com^
 ||health-spa-award.com^
 ||crazyprodnew.com^
-||stussymikinacz.com^
 ||cisteucho.cz^
 ||thebox-cz.com^
 ||buycz.shop^
@@ -952,28 +952,13 @@
 ||bettertbuy.co^
 ||globalpromotiontool.com^
 ||cpgtstream8.com^
-||ultraforcebtcoffers.com^
 ||servingyourpharmacy.com^
 ||onlinecheap2020.net^
-||factory2021.com^
-||brixtonballs.cz^
-||prodejbotpuma.top^
-||dropshiper.cz^
-||eccoutlet.cz^
 ||fotbalovemall.com^
-||cpagettigeneral2.com^
-||thebtcwaves.com^
-||world-newse.com^
 ||nirt.co.uk^
 ||recenzetop.cz^
 ||irecommendz.com^
-||health-and-beauty-4you.info^
-||tv24news.net^
-||alloverbodysupport.com^
 ||infoscrolling.com^
-||goforthebest24.com^
-||wwnews24.su^
-||czfotbalshop.com^
 ||xcartpro.com^
 ||perfdealpromo.com^
 ||economistguide.com^
@@ -1145,34 +1130,17 @@
 ||hobbsfashiondresses.com^
 ||cornermag.cz^
 ||zdravimazelenou.cz^
-||maxisizend.com^
-||shockingdiscover.com^
 ||scientificnewsforyou.com^
-||czechrepublicflags.com^
-||mmarketing.cz^
 ||antikwariat.cz^
 ||prostero-official.eu^
 ||unique-modules.com^
-||robertadamek.cz^
 ||time-for-investment.com^
 ||otsnd.com^
-||andreatailor.eu^
-||cuteelva.com^
 ||muama-enence.net^
 ||zadaas.cz^
-||varicobnd.com^
-||easyart24.com^
 ||pandoraeshop.cz^
-||netwhisky.at^
-||ingressmania.cz^
-||zethadesign.cz^
-||cz-xhose1.com^
-||bezdratova-sluchatka-cz.com^
-||coolbox1-cz.com^
 ||podlozka-na-grilovanicz.com^
-||snaponsmilecz.com^
 ||snaponsmile.com^
-||jednookydalekohledcz.com^
 ||freshfingers.pro^
 ||cz-baterie.cz^
 ||prollercz.com^
@@ -1231,7 +1199,6 @@
 ||shopcpagetti3.com^
 ||olomouckakina.cz^
 ||tibushop.com^
-||shockingdiscover.com^
 ||kozni-keclikova.cz^
 ||akce-pandora.cz^
 ||jjshouse.cz^
