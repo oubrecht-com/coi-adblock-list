@@ -1,12 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1736305862
+! Version: 1736392262
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||inuikiicz.cz^$all
+||Ortovox-eu.shop^$all
 ||coseshopcz.cz^$all
 ||zaraeshop.cz^$all
 ||wildmooncz.shop^$all
@@ -17,7 +19,6 @@
 ||otranquilityw.lol^$all
 ||biux.net^$all
 ||novak-praha.cz^$all
-||unlqlo-cz.cz^$all
 ||unlqlo-cz.cz^$all
 ||pepejeanseshopcz.cz^$all
 ||boty-nobull-cz.cz^$all
@@ -177,7 +178,6 @@
 ||oggibenessere.com^$all
 ||health-spa-award.com^$all
 ||crazyprodnew.com^$all
-||stussymikinacz.com^$all
 ||cisteucho.cz^$all
 ||thebox-cz.com^$all
 ||buycz.shop^$all
@@ -952,28 +952,13 @@
 ||bettertbuy.co^$all
 ||globalpromotiontool.com^$all
 ||cpgtstream8.com^$all
-||ultraforcebtcoffers.com^$all
 ||servingyourpharmacy.com^$all
 ||onlinecheap2020.net^$all
-||factory2021.com^$all
-||brixtonballs.cz^$all
-||prodejbotpuma.top^$all
-||dropshiper.cz^$all
-||eccoutlet.cz^$all
 ||fotbalovemall.com^$all
-||cpagettigeneral2.com^$all
-||thebtcwaves.com^$all
-||world-newse.com^$all
 ||nirt.co.uk^$all
 ||recenzetop.cz^$all
 ||irecommendz.com^$all
-||health-and-beauty-4you.info^$all
-||tv24news.net^$all
-||alloverbodysupport.com^$all
 ||infoscrolling.com^$all
-||goforthebest24.com^$all
-||wwnews24.su^$all
-||czfotbalshop.com^$all
 ||xcartpro.com^$all
 ||perfdealpromo.com^$all
 ||economistguide.com^$all
@@ -1145,34 +1130,17 @@
 ||hobbsfashiondresses.com^$all
 ||cornermag.cz^$all
 ||zdravimazelenou.cz^$all
-||maxisizend.com^$all
-||shockingdiscover.com^$all
 ||scientificnewsforyou.com^$all
-||czechrepublicflags.com^$all
-||mmarketing.cz^$all
 ||antikwariat.cz^$all
 ||prostero-official.eu^$all
 ||unique-modules.com^$all
-||robertadamek.cz^$all
 ||time-for-investment.com^$all
 ||otsnd.com^$all
-||andreatailor.eu^$all
-||cuteelva.com^$all
 ||muama-enence.net^$all
 ||zadaas.cz^$all
-||varicobnd.com^$all
-||easyart24.com^$all
 ||pandoraeshop.cz^$all
-||netwhisky.at^$all
-||ingressmania.cz^$all
-||zethadesign.cz^$all
-||cz-xhose1.com^$all
-||bezdratova-sluchatka-cz.com^$all
-||coolbox1-cz.com^$all
 ||podlozka-na-grilovanicz.com^$all
-||snaponsmilecz.com^$all
 ||snaponsmile.com^$all
-||jednookydalekohledcz.com^$all
 ||freshfingers.pro^$all
 ||cz-baterie.cz^$all
 ||prollercz.com^$all
@@ -1231,7 +1199,6 @@
 ||shopcpagetti3.com^$all
 ||olomouckakina.cz^$all
 ||tibushop.com^$all
-||shockingdiscover.com^$all
 ||kozni-keclikova.cz^$all
 ||akce-pandora.cz^$all
 ||jjshouse.cz^$all
