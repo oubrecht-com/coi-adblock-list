@@ -1,12 +1,21 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1736737861
+! Version: 1736824262
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||orchind.com^$all
+||dopesnow.cz^$all
+||dope-snow-cz.cz^$all
+||hydroflasktermoska.cz^$all
+||michaelkorscz.cz^$all
+||geco-store-cz.com^$all
+||botyduckfeetcz.com^$all
+||sipsip.cz^$all
+||monteoc.com^$all
 ||inuikiicz.cz^$all
 ||Ortovox-eu.shop^$all
 ||coseshopcz.cz^$all
@@ -112,7 +121,6 @@
 ||miuyistore.com^$all
 ||olgneshop.com^$all
 ||allbirdsboty.cz^$all
-||cos-sale.shop^$all
 ||speedydiscount-cesko.com^$all
 ||xchncern.monster^$all
 ||fanancod.com^$all
@@ -227,9 +235,7 @@
 ||poeust.com^$all
 ||voritashop.com^$all
 ||pokeme.cz^$all
-||cos-eshop.cz^$all
 ||latest-polarized.com^$all
-||gymshark-cz-shop.com^$all
 ||amol.cz^$all
 ||obuvbaldinini.cz^$all
 ||khaite.cz^$all
@@ -419,7 +425,6 @@
 ||itdigitalczpulse.life^$all
 ||ivananovakova.com^$all
 ||bugattiobuv.cz^$all
-||gym-sharkleginycz.cz^$all
 ||dcshoescz.cz^$all
 ||dovsd.com^$all
 ||education1.top^$all
@@ -482,7 +487,6 @@
 ||okay-world.monster^$all
 ||newsyoucanread24.com^$all
 ||sharkorder.com^$all
-||gymsharkleginycz.com^$all
 ||poisoil.shop^$all
 ||valeroil.shop^$all
 ||olenka.cz^$all
