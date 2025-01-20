@@ -1,12 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1737256262
+! Version: 1737342662
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||worldkv.com^$all
+||cos-praha.cz^$all
+||ortorex.cz^$all
+||webinar-universe.com^$all
+||mobilerushstore.store^$all
+||stussy-praha.cz^$all
+||comme-des-garcons.cz^$all
 ||orchind.com^$all
 ||dopesnow.cz^$all
 ||dope-snow-cz.cz^$all
@@ -423,7 +430,6 @@
 ||babypandicka.com^$all
 ||viknok.top^$all
 ||itdigitalczpulse.life^$all
-||ivananovakova.com^$all
 ||bugattiobuv.cz^$all
 ||dcshoescz.cz^$all
 ||dovsd.com^$all
@@ -484,7 +490,6 @@
 ||paketstorch.cz^$all
 ||obfdj.shop^$all
 ||praiseglories.info^$all
-||okay-world.monster^$all
 ||newsyoucanread24.com^$all
 ||sharkorder.com^$all
 ||poisoil.shop^$all
@@ -808,7 +813,6 @@
 ||wellness-sprchovahlavice-cz.com^$all
 ||hunterholinky.cc^$all
 ||superbinvest.com^$all
-||worldandbitcoin.com^$all
 ||communityoffersdaily.com^$all
 ||cannadiabv.com^$all
 ||cblhota.cz^$all
@@ -844,36 +848,12 @@
 ||karymy.com^$all
 ||topshop-eu.com^$all
 ||microbiologybytes.com^$all
-||adboty-eshop.cz^$all
-||pumaoutletpraha.cz^$all
-||inftnity.com^$all
-||fotbaloveobleceni.com^$all
-||akce.store^$all
-||zlatska.cz^$all
 ||extratopia.com^$all
-||lezuvmezu.cz^$all
-||botykeenvyprodej.cz^$all
 ||slevakupon.cz^$all
-||annivett.com^$all
-||keenfootwearsk.sk^$all
-||gladmomentum.com^$all
-||millie-bobby.cz^$all
-||polixcd.com^$all
-||nikesleva.cz^$all
-||merkiv.cz^$all
 ||coprv.com^$all
-||koupelevne.cz^$all
 ||cardilinev.com^$all
-||umbler.net^$all
-||helebarvy.cz^$all
 ||zuzutv.cz^$all
-||levne2021.ru^$all
-||jbstra.com^$all
-||green-andblacktea.com^$all
-||prodejs.com^$all
-||themrvita.com^$all
 ||landlrev.com^$all
-||nizamsecureoffer.com^$all
 ||btsystemos.com^$all
 ||ziirewopi.com^$all
 ||landntrv.com^$all
@@ -1102,7 +1082,6 @@
 ||bestceler.cz^$all
 ||centrum-cesta.cz^$all
 ||solarnilampycz.com^$all
-||buyonlineto.world^$all
 ||cpagetti6.com^$all
 ||doktrin.cz^$all
 ||bitcoin-billionaire-app.com^$all
@@ -1175,7 +1154,6 @@
 ||airlevne.cz^$all
 ||forhealth.me^$all
 ||bioveliss-tabs.com^$all
-||bestofferintheworld.com^$all
 ||prizniveparfemy.xyz^$all
 ||srpenec.cz^$all
 ||vogueangle.com^$all
