@@ -1,12 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1737256262
+! Version: 1737342662
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||worldkv.com^
+||cos-praha.cz^
+||ortorex.cz^
+||webinar-universe.com^
+||mobilerushstore.store^
+||stussy-praha.cz^
+||comme-des-garcons.cz^
 ||orchind.com^
 ||dopesnow.cz^
 ||dope-snow-cz.cz^
@@ -423,7 +430,6 @@
 ||babypandicka.com^
 ||viknok.top^
 ||itdigitalczpulse.life^
-||ivananovakova.com^
 ||bugattiobuv.cz^
 ||dcshoescz.cz^
 ||dovsd.com^
@@ -484,7 +490,6 @@
 ||paketstorch.cz^
 ||obfdj.shop^
 ||praiseglories.info^
-||okay-world.monster^
 ||newsyoucanread24.com^
 ||sharkorder.com^
 ||poisoil.shop^
@@ -808,7 +813,6 @@
 ||wellness-sprchovahlavice-cz.com^
 ||hunterholinky.cc^
 ||superbinvest.com^
-||worldandbitcoin.com^
 ||communityoffersdaily.com^
 ||cannadiabv.com^
 ||cblhota.cz^
@@ -844,36 +848,12 @@
 ||karymy.com^
 ||topshop-eu.com^
 ||microbiologybytes.com^
-||adboty-eshop.cz^
-||pumaoutletpraha.cz^
-||inftnity.com^
-||fotbaloveobleceni.com^
-||akce.store^
-||zlatska.cz^
 ||extratopia.com^
-||lezuvmezu.cz^
-||botykeenvyprodej.cz^
 ||slevakupon.cz^
-||annivett.com^
-||keenfootwearsk.sk^
-||gladmomentum.com^
-||millie-bobby.cz^
-||polixcd.com^
-||nikesleva.cz^
-||merkiv.cz^
 ||coprv.com^
-||koupelevne.cz^
 ||cardilinev.com^
-||umbler.net^
-||helebarvy.cz^
 ||zuzutv.cz^
-||levne2021.ru^
-||jbstra.com^
-||green-andblacktea.com^
-||prodejs.com^
-||themrvita.com^
 ||landlrev.com^
-||nizamsecureoffer.com^
 ||btsystemos.com^
 ||ziirewopi.com^
 ||landntrv.com^
@@ -1102,7 +1082,6 @@
 ||bestceler.cz^
 ||centrum-cesta.cz^
 ||solarnilampycz.com^
-||buyonlineto.world^
 ||cpagetti6.com^
 ||doktrin.cz^
 ||bitcoin-billionaire-app.com^
@@ -1175,7 +1154,6 @@
 ||airlevne.cz^
 ||forhealth.me^
 ||bioveliss-tabs.com^
-||bestofferintheworld.com^
 ||prizniveparfemy.xyz^
 ||srpenec.cz^
 ||vogueangle.com^
