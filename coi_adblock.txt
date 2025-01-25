@@ -1,12 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1737688262
+! Version: 1737774662
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||nhlnakupovani.com^
 ||Svoboda-Praha.cz^
 ||cos-czechrepublic.cz^
 ||emetaphysical.monster^
@@ -21,7 +22,6 @@
 ||worldkv.com^
 ||cos-praha.cz^
 ||ortorex.cz^
-||webinar-universe.com^
 ||mobilerushstore.store^
 ||stussy-praha.cz^
 ||comme-des-garcons.cz^
@@ -163,7 +163,6 @@
 ||greekoyo.com^
 ||outdoorvoicescz.com^
 ||fableticsvyprodej.cz^
-||fableticsczechia.com^
 ||aybl.cz^
 ||immstability.today^
 ||bricoshopper.com^
@@ -200,7 +199,6 @@
 ||thenorthernfacecz.com^
 ||sjuy.store^
 ||oecershop.com^
-||asics-czechrepublic.com^
 ||oggibenessere.com^
 ||health-spa-award.com^
 ||crazyprodnew.com^
@@ -209,7 +207,6 @@
 ||buycz.shop^
 ||amilara.com^
 ||floridic.com^
-||skechersczechrepublic.cz^
 ||nicliquid.com^
 ||casioslovensko.sk^
 ||botyloake.com^
@@ -325,7 +322,6 @@
 ||roxy-cz.cz^
 ||jdgoiab.cn^
 ||meindlbotycz.com^
-||pumabotyvyprodej.cz^
 ||reefcz.cz^
 ||drschollscz.cz^
 ||girohelma.cz^
@@ -345,7 +341,6 @@
 ||uniqlo-cz.cz^
 ||tohereibuy.com^
 ||zerogravity.cz^
-||salomonczechrepublic.cz^
 ||noreo.cz^
 ||baczaoe.top^
 ||dickiespraha.cz^
@@ -364,7 +359,6 @@
 ||javeng.shop^
 ||zaraczeshop.com^
 ||koifootwear.cz^
-||mammutvyprodej.com^
 ||racers.sk^
 ||shopsaea.com^
 ||lbres.shop^
@@ -398,7 +392,6 @@
 ||wuying.shop^
 ||julnewsb.com^
 ||jordansboty.cz^
-||botypumasleva.cz^
 ||hiffhstore.com^
 ||docmartens.cz^
 ||thursdayboots.cz^
@@ -430,7 +423,6 @@
 ||itdigitalbgnexus.life^
 ||innov8ionhub.top^
 ||zapetos.shop^
-||sauconyczechrepublic.cz^
 ||hokacz.cz^
 ||puresuit.shop^
 ||wiseandhealthyacademy.com^
@@ -447,7 +439,6 @@
 ||education1.top^
 ||cezgroup-news.com^
 ||koifootwearoutlet.cz^
-||asicsczechrepublic.cz^
 ||merrellbotycz.cz^
 ||skims.cz^
 ||kamagralove.shop^
@@ -563,9 +554,6 @@
 ||bookevenement.com^
 ||czech-republic-invest.com^
 ||newhealthylifes.com^
-||invest-czech.com^
-||czech-platforma.com^
-||puma-boty.cz^
 ||vessieshop.cz^
 ||rabbunda.cz^
 ||vejaeshop.cz^
@@ -643,7 +631,6 @@
 ||qwtryd.shop^
 ||vivofootostrava.cz^
 ||bazingastar.com^
-||pumapraha.com^
 ||cpagettimain4.com^
 ||maxiholky.cz^
 ||demoniabotyeshop.cz^
@@ -661,7 +648,6 @@
 ||zfjky.shop^
 ||ogsxe.shop^
 ||easyland.top^
-||lacosteczech.top^
 ||hokaboty.cz^
 ||xlani.shop^
 ||cpagetti9.com^
@@ -670,7 +656,6 @@
 ||paradisehost.cz^
 ||kubishop.cz^
 ||groundiescz.com^
-||groundiesczechrepublic.com^
 ||procarsshopcz1.com^
 ||100-solarni-lampa-cz.com^
 ||vagabondeshop.cz^
@@ -866,7 +851,6 @@
 ||zuzutv.cz^
 ||landlrev.com^
 ||btsystemos.com^
-||ziirewopi.com^
 ||landntrv.com^
 ||prodej2021.ru^
 ||geradot.fun^
@@ -1004,7 +988,6 @@
 ||guccisk.sk^
 ||zemanznovu.cz^
 ||cpagettistream8.com^
-||czechshop.su^
 ||mydiabeticsolutions.com^
 ||remedythebest.com^
 ||urban-deals.com^
@@ -1071,7 +1054,6 @@
 ||lipox.cz^
 ||ketodietnd.com^
 ||estersafranek.cz^
-||myshopify.com^
 ||insidemarketdataevents.xyz^
 ||koronavirus.in^
 ||kafar.cz^
@@ -1135,7 +1117,6 @@
 ||pandoraeshop.cz^
 ||podlozka-na-grilovanicz.com^
 ||snaponsmile.com^
-||freshfingers.pro^
 ||cz-baterie.cz^
 ||prollercz.com^
 ||floryday.com^
