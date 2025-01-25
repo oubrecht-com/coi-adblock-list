@@ -1,12 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1737688262
+! Version: 1737774662
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||nhlnakupovani.com^$all
 ||Svoboda-Praha.cz^$all
 ||cos-czechrepublic.cz^$all
 ||emetaphysical.monster^$all
@@ -21,7 +22,6 @@
 ||worldkv.com^$all
 ||cos-praha.cz^$all
 ||ortorex.cz^$all
-||webinar-universe.com^$all
 ||mobilerushstore.store^$all
 ||stussy-praha.cz^$all
 ||comme-des-garcons.cz^$all
@@ -163,7 +163,6 @@
 ||greekoyo.com^$all
 ||outdoorvoicescz.com^$all
 ||fableticsvyprodej.cz^$all
-||fableticsczechia.com^$all
 ||aybl.cz^$all
 ||immstability.today^$all
 ||bricoshopper.com^$all
@@ -200,7 +199,6 @@
 ||thenorthernfacecz.com^$all
 ||sjuy.store^$all
 ||oecershop.com^$all
-||asics-czechrepublic.com^$all
 ||oggibenessere.com^$all
 ||health-spa-award.com^$all
 ||crazyprodnew.com^$all
@@ -209,7 +207,6 @@
 ||buycz.shop^$all
 ||amilara.com^$all
 ||floridic.com^$all
-||skechersczechrepublic.cz^$all
 ||nicliquid.com^$all
 ||casioslovensko.sk^$all
 ||botyloake.com^$all
@@ -325,7 +322,6 @@
 ||roxy-cz.cz^$all
 ||jdgoiab.cn^$all
 ||meindlbotycz.com^$all
-||pumabotyvyprodej.cz^$all
 ||reefcz.cz^$all
 ||drschollscz.cz^$all
 ||girohelma.cz^$all
@@ -345,7 +341,6 @@
 ||uniqlo-cz.cz^$all
 ||tohereibuy.com^$all
 ||zerogravity.cz^$all
-||salomonczechrepublic.cz^$all
 ||noreo.cz^$all
 ||baczaoe.top^$all
 ||dickiespraha.cz^$all
@@ -364,7 +359,6 @@
 ||javeng.shop^$all
 ||zaraczeshop.com^$all
 ||koifootwear.cz^$all
-||mammutvyprodej.com^$all
 ||racers.sk^$all
 ||shopsaea.com^$all
 ||lbres.shop^$all
@@ -398,7 +392,6 @@
 ||wuying.shop^$all
 ||julnewsb.com^$all
 ||jordansboty.cz^$all
-||botypumasleva.cz^$all
 ||hiffhstore.com^$all
 ||docmartens.cz^$all
 ||thursdayboots.cz^$all
@@ -430,7 +423,6 @@
 ||itdigitalbgnexus.life^$all
 ||innov8ionhub.top^$all
 ||zapetos.shop^$all
-||sauconyczechrepublic.cz^$all
 ||hokacz.cz^$all
 ||puresuit.shop^$all
 ||wiseandhealthyacademy.com^$all
@@ -447,7 +439,6 @@
 ||education1.top^$all
 ||cezgroup-news.com^$all
 ||koifootwearoutlet.cz^$all
-||asicsczechrepublic.cz^$all
 ||merrellbotycz.cz^$all
 ||skims.cz^$all
 ||kamagralove.shop^$all
@@ -563,9 +554,6 @@
 ||bookevenement.com^$all
 ||czech-republic-invest.com^$all
 ||newhealthylifes.com^$all
-||invest-czech.com^$all
-||czech-platforma.com^$all
-||puma-boty.cz^$all
 ||vessieshop.cz^$all
 ||rabbunda.cz^$all
 ||vejaeshop.cz^$all
@@ -643,7 +631,6 @@
 ||qwtryd.shop^$all
 ||vivofootostrava.cz^$all
 ||bazingastar.com^$all
-||pumapraha.com^$all
 ||cpagettimain4.com^$all
 ||maxiholky.cz^$all
 ||demoniabotyeshop.cz^$all
@@ -661,7 +648,6 @@
 ||zfjky.shop^$all
 ||ogsxe.shop^$all
 ||easyland.top^$all
-||lacosteczech.top^$all
 ||hokaboty.cz^$all
 ||xlani.shop^$all
 ||cpagetti9.com^$all
@@ -670,7 +656,6 @@
 ||paradisehost.cz^$all
 ||kubishop.cz^$all
 ||groundiescz.com^$all
-||groundiesczechrepublic.com^$all
 ||procarsshopcz1.com^$all
 ||100-solarni-lampa-cz.com^$all
 ||vagabondeshop.cz^$all
@@ -866,7 +851,6 @@
 ||zuzutv.cz^$all
 ||landlrev.com^$all
 ||btsystemos.com^$all
-||ziirewopi.com^$all
 ||landntrv.com^$all
 ||prodej2021.ru^$all
 ||geradot.fun^$all
@@ -1004,7 +988,6 @@
 ||guccisk.sk^$all
 ||zemanznovu.cz^$all
 ||cpagettistream8.com^$all
-||czechshop.su^$all
 ||mydiabeticsolutions.com^$all
 ||remedythebest.com^$all
 ||urban-deals.com^$all
@@ -1071,7 +1054,6 @@
 ||lipox.cz^$all
 ||ketodietnd.com^$all
 ||estersafranek.cz^$all
-||myshopify.com^$all
 ||insidemarketdataevents.xyz^$all
 ||koronavirus.in^$all
 ||kafar.cz^$all
@@ -1135,7 +1117,6 @@
 ||pandoraeshop.cz^$all
 ||podlozka-na-grilovanicz.com^$all
 ||snaponsmile.com^$all
-||freshfingers.pro^$all
 ||cz-baterie.cz^$all
 ||prollercz.com^$all
 ||floryday.com^$all
