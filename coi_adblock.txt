@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1738465862
+! Version: 1738552261
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
@@ -182,7 +182,6 @@
 ||bricoshopper.com^
 ||skyeyes.shop^
 ||nagimi.com^
-||botytopoathletic.com^
 ||ishoppingworlds.com^
 ||hobby-eshop.cz^
 ||swisspower.cz^
@@ -223,7 +222,6 @@
 ||floridic.com^
 ||nicliquid.com^
 ||casioslovensko.sk^
-||botyloake.com^
 ||saucony-slovensko.sk^
 ||qsggh.com^
 ||2023factory.ru^
@@ -268,7 +266,6 @@
 ||amol.cz^
 ||obuvbaldinini.cz^
 ||khaite.cz^
-||hi-tecboty.cz^
 ||meindlcz.cz^
 ||stussyshop.cz^
 ||patagoniapraha.cz^
@@ -276,7 +273,6 @@
 ||parasias.com^
 ||babickypecou.cz^
 ||cccmall.top^
-||botyobozcz.com^
 ||thenorthfacevyprodej.com^
 ||welovedoxies.com^
 ||kalapsonia.cz^
@@ -311,7 +307,6 @@
 ||grtwji.store^
 ||cez-group.digital^
 ||qsauner.com^
-||alohasboty.cz^
 ||ariat.cz^
 ||raphacz.cz^
 ||stellamccartneycz.cz^
@@ -335,11 +330,9 @@
 ||optimal-brikety.cz^
 ||roxy-cz.cz^
 ||jdgoiab.cn^
-||meindlbotycz.com^
 ||reefcz.cz^
 ||drschollscz.cz^
 ||girohelma.cz^
-||oncloudboty.cz^
 ||prezentify.cz^
 ||elamba.shop^
 ||gymsharkshop.cz^
@@ -347,9 +340,7 @@
 ||blouser.shop^
 ||adurtho.com^
 ||alevlioto.com^
-||botyvagabond.cz^
 ||nobulleshops.cz^
-||dunelondonboty.cz^
 ||tory-burch.cz^
 ||spydercz.cz^
 ||uniqlo-cz.cz^
@@ -365,7 +356,6 @@
 ||vivobarefootcze-shop.cz^
 ||manleo.cz^
 ||raybanczstore.cz^
-||araboty.com^
 ||vineyardvines.cz^
 ||jwpei.cz^
 ||rvcacz.cz^
@@ -377,9 +367,6 @@
 ||shopsaea.com^
 ||lbres.shop^
 ||karllagerfeldcz.com^
-||redwingbotypraha.cz^
-||aquazzuraboty.cz^
-||paulgreenboty.cz^
 ||victoriasecretcz.cz^
 ||articblast.co^
 ||beintro.site^
@@ -394,7 +381,6 @@
 ||soloustores.com^
 ||didlasower-invest.pro^
 ||converseczeshop.cz^
-||botyvibram.cz^
 ||kantaapnews.com^
 ||leatheryouth.com^
 ||buyfivestore.com^
@@ -405,7 +391,6 @@
 ||grammebr.shop^
 ||wuying.shop^
 ||julnewsb.com^
-||jordansboty.cz^
 ||hiffhstore.com^
 ||docmartens.cz^
 ||thursdayboots.cz^
@@ -459,7 +444,6 @@
 ||tretryshimano.cz^
 ||amaliepraha.com^
 ||sweorou.com^
-||camperbotycz.cz^
 ||shitforyou.eu^
 ||solarniledlampa-cz.com^
 ||outamost.com^
@@ -543,9 +527,7 @@
 ||guessczonline.com^
 ||markmax.site^
 ||evasiveinfo.com^
-||suprabotyshoppraha.cz^
 ||boilingsmart.com^
-||demonlaboty.cz^
 ||speedcrossnettbutikk.com^
 ||theantilife.com^
 ||lifebeautyme.com^
@@ -575,7 +557,6 @@
 ||landpld.com^
 ||lululemonoutlet.cz^
 ||gymsharkcz.cz^
-||eccobotysleva.cz^
 ||tyflogalerie.cz^
 ||wanderheat.com^
 ||kfxgw.shop^
@@ -592,7 +573,6 @@
 ||guardys.cz^
 ||longchampkabelka.cz^
 ||teva-praha.cz^
-||botyasicsvyprodej.cz^
 ||newfitolifes.com^
 ||mycpagettipotok2.com^
 ||newhealthcarenow.com^
@@ -626,7 +606,6 @@
 ||goldendood.shop^
 ||veryuseful.ml^
 ||medgroup.club^
-||footjoygolfboty.cz^
 ||danskocz.cz^
 ||pod-cenou.cz^
 ||doktoratonline.cz^
@@ -647,7 +626,6 @@
 ||bazingastar.com^
 ||cpagettimain4.com^
 ||maxiholky.cz^
-||demoniabotyeshop.cz^
 ||palladium-praha.com^
 ||zhytd.shop^
 ||myvention.com^
@@ -658,11 +636,9 @@
 ||qmchp.shop^
 ||parazr.com^
 ||avkjr.shop^
-||botykeen-cz.net^
 ||zfjky.shop^
 ||ogsxe.shop^
 ||easyland.top^
-||hokaboty.cz^
 ||xlani.shop^
 ||cpagetti9.com^
 ||tankovnauhaldy.cz^
@@ -708,7 +684,6 @@
 ||lunzo.sk^
 ||ceskarna.net^
 ||vibramboty.com^
-||botyscarpa.cz^
 ||columbiacz.com^
 ||abshuzhi.com^
 ||jackwolfskinpraha.com^
@@ -720,7 +695,6 @@
 ||discountoutlets2021.ru^
 ||indoorsuper.com^
 ||zasilkonos.cz^
-||drmartensbotysleva.cz^
 ||sorelpraha.com^
 ||pumaslovensko.sk^
 ||bestremedyforpeople.com^
@@ -748,16 +722,12 @@
 ||123-barvy.cz^
 ||veteranspridelandscaping.com^
 ||123-123.cz^
-||riekerbotyshop.cz^
 ||lekarskereporteri24.com^
 ||bestwellbeings.com^
 ||querid.top^
 ||rammicr.com^
 ||aizhongzhou.com^
 ||czfung.ru^
-||drbotyvyprodej.cz^
-||botygroundies.cz^
-||botyaku.cz^
 ||zahradnikem-nedopatrenim.cz^
 ||vivobarefootprimus.sk^
 ||kspaceproject.com^
@@ -776,7 +746,6 @@
 ||chytrynaramek-cz.com^
 ||lasportivacz.cz^
 ||marklv.cz^
-||adbotyeshop.cz^
 ||besttovarsale.com^
 ||alkotoxv.com^
 ||hemorv.com^
@@ -834,8 +803,6 @@
 ||topwebsshop.com^
 ||janattwell.com^
 ||hokaoneoneshop.cz^
-||uggszimniboty.cz^
-||botyinov-8.cz^
 ||merrelleshop.cz^
 ||layoners.com^
 ||ishop-cz.com^
@@ -872,7 +839,6 @@
 ||alofixa.com^
 ||medicphytos.com^
 ||landevrv.com^
-||botybrooks.cz^
 ||ketodieti.com^
 ||gotocmall.com^
 ||vasesleva.eu^
@@ -912,7 +878,6 @@
 ||moveflexofficial.com^
 ||edensport.cz^
 ||life-changings-facts.com^
-||filasleva.cz^
 ||4blok.cz^
 ||tylda.cz^
 ||shoppingclub.cz^
@@ -1143,7 +1108,6 @@
 ||bactefortnd.com^
 ||chalupa-servis.cz^
 ||pocitacefrydlant.cz^
-||skechersbotyoutlet.cz^
 ||eshopie.cz^
 ||eximor.cz^
 ||penzion68.cz^
