@@ -1,12 +1,23 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1739070662
+! Version: 1739157062
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||polosralphlauren.cz^$all
+||framilpraha.cz^$all
+||aenact.lol^$all
+||erendezvousm.lol^$all
+||armedangels.cz^$all
+||uinlialeu.lol^$all
+||teveostore.cz^$all
+||esprit-cz.cz^$all
+||kalinapraga.com^$all
+||scuffersczechrepublic.cz^$all
+||scuffers.cz^$all
 ||lemsczech.com^$all
 ||pumaczeshop.cz^$all
 ||asicscz.com^$all
@@ -237,7 +248,6 @@
 ||bio-max.cz^$all
 ||superbriket.cz^$all
 ||ahojahoj.com^$all
-||gillmarineoutlet.cz^$all
 ||jareys.com^$all
 ||fundaja.shop^$all
 ||gemgolden.com^$all
@@ -249,7 +259,6 @@
 ||gbrjah.store^$all
 ||fikldas-invest.pro^$all
 ||geko-store.com^$all
-||nghoutlet.com^$all
 ||oceangirlboutique.live^$all
 ||trinlk.com^$all
 ||nvgtn.cz^$all
@@ -287,7 +296,6 @@
 ||bluejadefinds.com^$all
 ||flioer.com^$all
 ||fccanheng.com^$all
-||bisgaardoutlets.com^$all
 ||valueffect.com^$all
 ||bikeblitz.eu^$all
 ||zelenaazluta.shop^$all
@@ -412,7 +420,6 @@
 ||krisnoshop.com^$all
 ||nbvyprodej.cz^$all
 ||reelio.cz^$all
-||nikeoutletcz.com^$all
 ||meilizhubao.top^$all
 ||warby-parker.cz^$all
 ||ryderwear.cz^$all
@@ -441,7 +448,6 @@
 ||dovsd.com^$all
 ||education1.top^$all
 ||cezgroup-news.com^$all
-||koifootwearoutlet.cz^$all
 ||merrellbotycz.cz^$all
 ||skims.cz^$all
 ||kamagralove.shop^$all
@@ -482,7 +488,6 @@
 ||thirteenpleasant.cc^$all
 ||505910.site^$all
 ||odprezony.shop^$all
-||dopesnowbundy.cz^$all
 ||myshopify.com^$all
 ||21sstylees.com^$all
 ||avesaleshop.com^$all
@@ -522,7 +527,6 @@
 ||i-i-i.top^$all
 ||geoxczeshop.cz^$all
 ||zpasbl.com^$all
-||dopebunda.cz^$all
 ||urbantrend.cz^$all
 ||ceskomikulovskakuchyne.com^$all
 ||milead.click^$all
@@ -559,7 +563,6 @@
 ||vejaeshop.cz^$all
 ||underarmour-cz.cz^$all
 ||landpld.com^$all
-||lululemonoutlet.cz^$all
 ||gymsharkcz.cz^$all
 ||tyflogalerie.cz^$all
 ||wanderheat.com^$all
@@ -634,7 +637,6 @@
 ||zhytd.shop^$all
 ||myvention.com^$all
 ||hefov.shop^$all
-||2022onlineoutlet.ru^$all
 ||gigantv.com^$all
 ||cokobelo.com^$all
 ||qmchp.shop^$all
@@ -696,7 +698,6 @@
 ||coffeeboy.cz^$all
 ||vanspraha.cz^$all
 ||aiglevyprodej.cz^$all
-||discountoutlets2021.ru^$all
 ||indoorsuper.com^$all
 ||zasilkonos.cz^$all
 ||sorelpraha.com^$all
@@ -852,14 +853,12 @@
 ||fixmyppcc.site^$all
 ||cannajv.com^$all
 ||datalistshop.com^$all
-||outlet2021.ru^$all
 ||foto-vize.cz^$all
 ||motorwarenhuis.de^$all
 ||health-news-2021.com^$all
 ||modendi.com^$all
 ||uzasnenabidky24.com^$all
 ||powerglasses.co.uk^$all
-||outletonline2021.ru^$all
 ||change-of-assets.com^$all
 ||mlpa.cz^$all
 ||cpagettimain.com^$all
@@ -1008,7 +1007,6 @@
 ||youreduspace.com^$all
 ||bestbtcoffers.com^$all
 ||greatest-shop.com^$all
-||outletonline2020.net^$all
 ||bitcoinsystemwebapp.com^$all
 ||getfityourbody.com^$all
 ||levasan-maxx2.com^$all
@@ -1148,22 +1146,8 @@
 ||mylano.ch^$all
 ||wincleanerpro.com^$all
 ||worldocassions.com^$all
-||uspory.net^$all
-||voucher.plus^$all
-||marthistore.cz^$all
-||scientificnewsforyou.com^$all
-||shopcpagetti3.com^$all
-||olomouckakina.cz^$all
-||tibushop.com^$all
-||kozni-keclikova.cz^$all
 ||akce-pandora.cz^$all
-||jjshouse.cz^$all
-||stavimezavas.cz^$all
-||hbc-finance.cz^$all
-||limeline.cz^$all
-||jordantenisky.net^$all
 ||chinaexpress.cz^$all
-||stormbuck.cz^$all
 ||strakaastraka.cz^$all
 ||yourmarket24.com^$all
 ||adapterynotebooku.cz^$all
@@ -1177,7 +1161,6 @@
 ||schotz.cz^$all
 ||flipitreality.cz^$all
 ||baltom.cz^$all
-||horokolo.cz^$all
 ||securesmrt-dt.com^$all
 ||world-of-earnings.com^$all
 ||lekarna-protebe.cz^$all
