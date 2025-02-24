@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1740280261
+! Version: 1740366662
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
@@ -480,7 +480,6 @@
 ||labetcod.com^$all
 ||sanukpraha.cz^$all
 ||thecomplication.cz^$all
-||icebugcz.com^$all
 ||shuqaim.com^$all
 ||aldoeshop.cz^$all
 ||qiaoxioo.com^$all
@@ -643,30 +642,8 @@
 ||flaro.cz^$all
 ||wallvision.cz^$all
 ||hellyhanseneshop.cz^$all
-||giavbv.top^$all
-||openingtowin.com^$all
-||buytestoultramaxenhancer.com^$all
-||sarahbali.cz^$all
-||qwtryd.shop^$all
-||vivofootostrava.cz^$all
-||bazingastar.com^$all
-||cpagettimain4.com^$all
-||maxiholky.cz^$all
-||palladium-praha.com^$all
-||zhytd.shop^$all
-||myvention.com^$all
-||hefov.shop^$all
 ||gigantv.com^$all
-||cokobelo.com^$all
-||qmchp.shop^$all
 ||parazr.com^$all
-||avkjr.shop^$all
-||zfjky.shop^$all
-||ogsxe.shop^$all
-||easyland.top^$all
-||xlani.shop^$all
-||cpagetti9.com^$all
-||tankovnauhaldy.cz^$all
 ||nobullobuv.cz^$all
 ||paradisehost.cz^$all
 ||kubishop.cz^$all
