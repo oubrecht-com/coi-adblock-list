@@ -1,12 +1,18 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1741921862
+! Version: 1742008262
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||pxunhcz.com^
+||ciele.cz^
+||bellcasual.com^
+||nmartial.monster^
+||tyr-cz.cz^
+||solovaircz.top^
 ||innovaperfect.com^
 ||poleneparis.cz^
 ||simplepepper.top^
@@ -835,34 +841,20 @@
 ||onlinecheap2021.ru^
 ||vivobarefootpraha.com^
 ||nbcz.cz^
-||jeskyne-pokladu.com^
-||karymy.com^
 ||topshop-eu.com^
 ||microbiologybytes.com^
-||extratopia.com^
 ||slevakupon.cz^
 ||coprv.com^
 ||cardilinev.com^
 ||zuzutv.cz^
 ||landlrev.com^
-||btsystemos.com^
 ||landntrv.com^
-||prodej2021.ru^
-||geradot.fun^
-||columbiaeshop.cz^
-||alofixa.com^
-||medicphytos.com^
 ||landevrv.com^
 ||ketodieti.com^
-||gotocmall.com^
-||vasesleva.eu^
-||levny2021.com^
 ||ketodietv.com^
 ||mynutraresearch.com^
-||fixmyppcc.site^
 ||cannajv.com^
 ||datalistshop.com^
-||foto-vize.cz^
 ||motorwarenhuis.de^
 ||health-news-2021.com^
 ||modendi.com^
