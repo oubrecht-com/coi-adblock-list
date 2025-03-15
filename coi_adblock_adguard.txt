@@ -1,12 +1,18 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1741921862
+! Version: 1742008262
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||pxunhcz.com^$all
+||ciele.cz^$all
+||bellcasual.com^$all
+||nmartial.monster^$all
+||tyr-cz.cz^$all
+||solovaircz.top^$all
 ||innovaperfect.com^$all
 ||poleneparis.cz^$all
 ||simplepepper.top^$all
@@ -835,34 +841,20 @@
 ||onlinecheap2021.ru^$all
 ||vivobarefootpraha.com^$all
 ||nbcz.cz^$all
-||jeskyne-pokladu.com^$all
-||karymy.com^$all
 ||topshop-eu.com^$all
 ||microbiologybytes.com^$all
-||extratopia.com^$all
 ||slevakupon.cz^$all
 ||coprv.com^$all
 ||cardilinev.com^$all
 ||zuzutv.cz^$all
 ||landlrev.com^$all
-||btsystemos.com^$all
 ||landntrv.com^$all
-||prodej2021.ru^$all
-||geradot.fun^$all
-||columbiaeshop.cz^$all
-||alofixa.com^$all
-||medicphytos.com^$all
 ||landevrv.com^$all
 ||ketodieti.com^$all
-||gotocmall.com^$all
-||vasesleva.eu^$all
-||levny2021.com^$all
 ||ketodietv.com^$all
 ||mynutraresearch.com^$all
-||fixmyppcc.site^$all
 ||cannajv.com^$all
 ||datalistshop.com^$all
-||foto-vize.cz^$all
 ||motorwarenhuis.de^$all
 ||health-news-2021.com^$all
 ||modendi.com^$all
