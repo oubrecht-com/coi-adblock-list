@@ -1,12 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1742526662
+! Version: 1742613062
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||simaginaryoir.shop^$all
+||mnfws.shop^$all
 ||basafy.shop^$all
 ||pxunhcz.com^$all
 ||ciele.cz^$all
@@ -17,7 +19,6 @@
 ||innovaperfect.com^$all
 ||poleneparis.cz^$all
 ||simplepepper.top^$all
-||stanislavs.cz^$all
 ||starsneakers.eu^$all
 ||afinhoew.shop^$all
 ||adelakoukalova.store^$all
@@ -502,33 +503,17 @@
 ||thecomplication.cz^$all
 ||shuqaim.com^$all
 ||aldoeshop.cz^$all
-||qiaoxioo.com^$all
-||avesaleshop.com^$all
-||mymair.com^$all
 ||qikoping.com^$all
-||futuremoderntech.life^$all
-||misetee.top^$all
 ||fashicolors.com^$all
-||digitalxperience.life^$all
-||newtopdigitals.club^$all
-||trodat-cz.cz^$all
-||ultraceny.cz^$all
-||newdigitals.club^$all
 ||goddeal.cz^$all
-||domainjk.com^$all
 ||xsykl.shop^$all
-||siosail.shop^$all
-||freshservice.life^$all
-||neznost.shop^$all
 ||alimoder.com^$all
-||halifechic.com^$all
 ||vamano.cz^$all
 ||thirteenpleasant.cc^$all
 ||505910.site^$all
 ||odprezony.shop^$all
 ||myshopify.com^$all
 ||21sstylees.com^$all
-||avesaleshop.com^$all
 ||crypsome.click^$all
 ||dvdfunny.top^$all
 ||evehaojk.com^$all
