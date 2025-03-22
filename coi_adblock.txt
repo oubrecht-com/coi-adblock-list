@@ -1,12 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1742526662
+! Version: 1742613062
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||simaginaryoir.shop^
+||mnfws.shop^
 ||basafy.shop^
 ||pxunhcz.com^
 ||ciele.cz^
@@ -17,7 +19,6 @@
 ||innovaperfect.com^
 ||poleneparis.cz^
 ||simplepepper.top^
-||stanislavs.cz^
 ||starsneakers.eu^
 ||afinhoew.shop^
 ||adelakoukalova.store^
@@ -502,33 +503,17 @@
 ||thecomplication.cz^
 ||shuqaim.com^
 ||aldoeshop.cz^
-||qiaoxioo.com^
-||avesaleshop.com^
-||mymair.com^
 ||qikoping.com^
-||futuremoderntech.life^
-||misetee.top^
 ||fashicolors.com^
-||digitalxperience.life^
-||newtopdigitals.club^
-||trodat-cz.cz^
-||ultraceny.cz^
-||newdigitals.club^
 ||goddeal.cz^
-||domainjk.com^
 ||xsykl.shop^
-||siosail.shop^
-||freshservice.life^
-||neznost.shop^
 ||alimoder.com^
-||halifechic.com^
 ||vamano.cz^
 ||thirteenpleasant.cc^
 ||505910.site^
 ||odprezony.shop^
 ||myshopify.com^
 ||21sstylees.com^
-||avesaleshop.com^
 ||crypsome.click^
 ||dvdfunny.top^
 ||evehaojk.com^
