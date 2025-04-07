@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1743905461
+! Version: 1743991862
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
@@ -1107,59 +1107,20 @@
 ||suganormnd.com^
 ||lingfluent.com^
 ||bactefortnd.com^
-||chalupa-servis.cz^
-||pocitacefrydlant.cz^
-||eshopie.cz^
-||eximor.cz^
-||penzion68.cz^
-||trackey.store^
-||kubasmrz.cz^
 ||nikecz.com^
-||pandoracz.com^
-||msfplzen.cz^
-||msomska.cz^
 ||registr-dluzniku-k-nahlednuti-zdarma.cz^
 ||cerd.cz^
 ||centralniregistrdluzniku.cz^
-||premium-perfume.shop^
-||airlevne.cz^
-||forhealth.me^
-||bioveliss-tabs.com^
-||prizniveparfemy.xyz^
-||srpenec.cz^
-||vogueangle.com^
-||perfumesonsale.website^
 ||dis2012.org^
 ||tempotime.cz^
-||zoufalemaminky.cz^
-||dobra-kamna.cz^
-||novyles.cz^
-||raddimm.cz^
-||auralplussachets.com^
 ||fungalor.com^
 ||official-fungonis.com^
-||myhealthyblog.com^
 ||fastphrases.cz^
-||sciencejournal.cz^
-||rocktime.cz^
-||mylano.ch^
-||wincleanerpro.com^
-||worldocassions.com^
-||akce-pandora.cz^
-||chinaexpress.cz^
-||strakaastraka.cz^
 ||yourmarket24.com^
 ||adapterynotebooku.cz^
-||cpagetti3.com^
-||theprosterolb.com^
-||salescz.club^
-||dedolej.cz^
-||omegashark.com^
-||lacuketa.cz^
 ||feizer.com^
 ||schotz.cz^
 ||flipitreality.cz^
-||baltom.cz^
 ||securesmrt-dt.com^
 ||world-of-earnings.com^
 ||lekarna-protebe.cz^
