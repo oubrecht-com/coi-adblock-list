@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1743905461
+! Version: 1743991862
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
@@ -1107,59 +1107,20 @@
 ||suganormnd.com^$all
 ||lingfluent.com^$all
 ||bactefortnd.com^$all
-||chalupa-servis.cz^$all
-||pocitacefrydlant.cz^$all
-||eshopie.cz^$all
-||eximor.cz^$all
-||penzion68.cz^$all
-||trackey.store^$all
-||kubasmrz.cz^$all
 ||nikecz.com^$all
-||pandoracz.com^$all
-||msfplzen.cz^$all
-||msomska.cz^$all
 ||registr-dluzniku-k-nahlednuti-zdarma.cz^$all
 ||cerd.cz^$all
 ||centralniregistrdluzniku.cz^$all
-||premium-perfume.shop^$all
-||airlevne.cz^$all
-||forhealth.me^$all
-||bioveliss-tabs.com^$all
-||prizniveparfemy.xyz^$all
-||srpenec.cz^$all
-||vogueangle.com^$all
-||perfumesonsale.website^$all
 ||dis2012.org^$all
 ||tempotime.cz^$all
-||zoufalemaminky.cz^$all
-||dobra-kamna.cz^$all
-||novyles.cz^$all
-||raddimm.cz^$all
-||auralplussachets.com^$all
 ||fungalor.com^$all
 ||official-fungonis.com^$all
-||myhealthyblog.com^$all
 ||fastphrases.cz^$all
-||sciencejournal.cz^$all
-||rocktime.cz^$all
-||mylano.ch^$all
-||wincleanerpro.com^$all
-||worldocassions.com^$all
-||akce-pandora.cz^$all
-||chinaexpress.cz^$all
-||strakaastraka.cz^$all
 ||yourmarket24.com^$all
 ||adapterynotebooku.cz^$all
-||cpagetti3.com^$all
-||theprosterolb.com^$all
-||salescz.club^$all
-||dedolej.cz^$all
-||omegashark.com^$all
-||lacuketa.cz^$all
 ||feizer.com^$all
 ||schotz.cz^$all
 ||flipitreality.cz^$all
-||baltom.cz^$all
 ||securesmrt-dt.com^$all
 ||world-of-earnings.com^$all
 ||lekarna-protebe.cz^$all
