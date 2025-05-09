@@ -1,13 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1746670262
+! Version: 1746756662
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||novak-brno.cz^$all
 ||elyviane-praha.cz^$all
+||abcici.shop^$all
 ||3shanyang.shop^$all
 ||panasonic-eu.shop^$all
 ||ticketsafe.cz^$all
@@ -23,7 +25,6 @@
 ||eheed.monster^$all
 ||vibeprimemag.com^$all
 ||shopcz.cc^$all
-||kolarpraha.cz^$all
 ||vincileathershoes.cz^$all
 ||loveeds.com^$all
 ||rhasnog.com^$all
@@ -64,7 +65,6 @@
 ||icebug-eshop.cz^$all
 ||potah-zidle.cz^$all
 ||outlet-cz.shop^$all
-||smichovpraha.cz^$all
 ||asicspraha.com^$all
 ||kicksoi.eu^$all
 ||funko-pop.cz^$all
@@ -83,7 +83,6 @@
 ||shuilongf.shop^$all
 ||sorelpraha.net^$all
 ||polosralphlauren.cz^$all
-||framilpraha.cz^$all
 ||aenact.lol^$all
 ||erendezvousm.lol^$all
 ||armedangels.cz^$all
@@ -107,7 +106,6 @@
 ||tkccoyy.com^$all
 ||kazareshop.cz^$all
 ||venumcz.cz^$all
-||pure-praha.com^$all
 ||fotbalshop.com^$all
 ||novakpraha.com^$all
 ||whatchiddd.com^$all
@@ -124,7 +122,6 @@
 ||ddsad.shop^$all
 ||edhardy-cz.cz^$all
 ||worldkv.com^$all
-||cos-praha.cz^$all
 ||ortorex.cz^$all
 ||mobilerushstore.store^$all
 ||stussy-praha.cz^$all
@@ -160,7 +157,6 @@
 ||retro-saty.cz^$all
 ||toonzshop.cz^$all
 ||hello-deals.com^$all
-||adelapraha.store^$all
 ||tatonkacz.com^$all
 ||fotbaldresdarek.com^$all
 ||modnidumpraha.cz^$all
@@ -356,7 +352,6 @@
 ||khaite.cz^$all
 ||meindlcz.cz^$all
 ||stussyshop.cz^$all
-||patagoniapraha.cz^$all
 ||ventisvision.com^$all
 ||parasias.com^$all
 ||babickypecou.cz^$all
@@ -461,7 +456,6 @@
 ||deeplin.shop^$all
 ||hellyhansenbundy.cz^$all
 ||louboutinboty.cz^$all
-||geoxpraha.cz^$all
 ||filacz.cz^$all
 ||love-puls.shop^$all
 ||moneytg.shop^$all
@@ -527,14 +521,12 @@
 ||skims.cz^$all
 ||kamagralove.shop^$all
 ||tretryshimano.cz^$all
-||amaliepraha.com^$all
 ||sweorou.com^$all
 ||shitforyou.eu^$all
 ||solarniledlampa-cz.com^$all
 ||outamost.com^$all
 ||newdigitalgenius.life^$all
 ||labetcod.com^$all
-||sanukpraha.cz^$all
 ||thecomplication.cz^$all
 ||shuqaim.com^$all
 ||aldoeshop.cz^$all
@@ -636,7 +628,6 @@
 ||alfazv.com^$all
 ||guardys.cz^$all
 ||longchampkabelka.cz^$all
-||teva-praha.cz^$all
 ||newfitolifes.com^$all
 ||mycpagettipotok2.com^$all
 ||newhealthcarenow.com^$all
@@ -673,7 +664,6 @@
 ||danskocz.cz^$all
 ||pod-cenou.cz^$all
 ||doktoratonline.cz^$all
-||timberlandpraha.cz^$all
 ||stayingsafe.cz^$all
 ||pumacz.cz^$all
 ||vsetop.cz^$all
@@ -718,7 +708,6 @@
 ||jimisia.ru^$all
 ||kodykuponu.com^$all
 ||damecbd.eu^$all
-||salomon-praha.cz^$all
 ||solnadymka-cz.com^$all
 ||cannapt.com^$all
 ||promoshopmedia.com^$all
@@ -727,15 +716,12 @@
 ||vibramboty.com^$all
 ||columbiacz.com^$all
 ||abshuzhi.com^$all
-||jackwolfskinpraha.com^$all
 ||meek.cz^$all
 ||fashion-mode.cz^$all
 ||coffeeboy.cz^$all
-||vanspraha.cz^$all
 ||aiglevyprodej.cz^$all
 ||indoorsuper.com^$all
 ||zasilkonos.cz^$all
-||sorelpraha.com^$all
 ||pumaslovensko.sk^$all
 ||bestremedyforpeople.com^$all
 ||bgznyxlbkgp.digital^$all
@@ -859,7 +845,6 @@
 ||europebitcoinlab.com^$all
 ||skvela-moda.cz^$all
 ||onlinecheap2021.ru^$all
-||vivobarefootpraha.com^$all
 ||nbcz.cz^$all
 ||topshop-eu.com^$all
 ||microbiologybytes.com^$all
