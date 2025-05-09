@@ -1,13 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1746670262
+! Version: 1746756662
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||novak-brno.cz^
 ||elyviane-praha.cz^
+||abcici.shop^
 ||3shanyang.shop^
 ||panasonic-eu.shop^
 ||ticketsafe.cz^
@@ -23,7 +25,6 @@
 ||eheed.monster^
 ||vibeprimemag.com^
 ||shopcz.cc^
-||kolarpraha.cz^
 ||vincileathershoes.cz^
 ||loveeds.com^
 ||rhasnog.com^
@@ -64,7 +65,6 @@
 ||icebug-eshop.cz^
 ||potah-zidle.cz^
 ||outlet-cz.shop^
-||smichovpraha.cz^
 ||asicspraha.com^
 ||kicksoi.eu^
 ||funko-pop.cz^
@@ -83,7 +83,6 @@
 ||shuilongf.shop^
 ||sorelpraha.net^
 ||polosralphlauren.cz^
-||framilpraha.cz^
 ||aenact.lol^
 ||erendezvousm.lol^
 ||armedangels.cz^
@@ -107,7 +106,6 @@
 ||tkccoyy.com^
 ||kazareshop.cz^
 ||venumcz.cz^
-||pure-praha.com^
 ||fotbalshop.com^
 ||novakpraha.com^
 ||whatchiddd.com^
@@ -124,7 +122,6 @@
 ||ddsad.shop^
 ||edhardy-cz.cz^
 ||worldkv.com^
-||cos-praha.cz^
 ||ortorex.cz^
 ||mobilerushstore.store^
 ||stussy-praha.cz^
@@ -160,7 +157,6 @@
 ||retro-saty.cz^
 ||toonzshop.cz^
 ||hello-deals.com^
-||adelapraha.store^
 ||tatonkacz.com^
 ||fotbaldresdarek.com^
 ||modnidumpraha.cz^
@@ -356,7 +352,6 @@
 ||khaite.cz^
 ||meindlcz.cz^
 ||stussyshop.cz^
-||patagoniapraha.cz^
 ||ventisvision.com^
 ||parasias.com^
 ||babickypecou.cz^
@@ -461,7 +456,6 @@
 ||deeplin.shop^
 ||hellyhansenbundy.cz^
 ||louboutinboty.cz^
-||geoxpraha.cz^
 ||filacz.cz^
 ||love-puls.shop^
 ||moneytg.shop^
@@ -527,14 +521,12 @@
 ||skims.cz^
 ||kamagralove.shop^
 ||tretryshimano.cz^
-||amaliepraha.com^
 ||sweorou.com^
 ||shitforyou.eu^
 ||solarniledlampa-cz.com^
 ||outamost.com^
 ||newdigitalgenius.life^
 ||labetcod.com^
-||sanukpraha.cz^
 ||thecomplication.cz^
 ||shuqaim.com^
 ||aldoeshop.cz^
@@ -636,7 +628,6 @@
 ||alfazv.com^
 ||guardys.cz^
 ||longchampkabelka.cz^
-||teva-praha.cz^
 ||newfitolifes.com^
 ||mycpagettipotok2.com^
 ||newhealthcarenow.com^
@@ -673,7 +664,6 @@
 ||danskocz.cz^
 ||pod-cenou.cz^
 ||doktoratonline.cz^
-||timberlandpraha.cz^
 ||stayingsafe.cz^
 ||pumacz.cz^
 ||vsetop.cz^
@@ -718,7 +708,6 @@
 ||jimisia.ru^
 ||kodykuponu.com^
 ||damecbd.eu^
-||salomon-praha.cz^
 ||solnadymka-cz.com^
 ||cannapt.com^
 ||promoshopmedia.com^
@@ -727,15 +716,12 @@
 ||vibramboty.com^
 ||columbiacz.com^
 ||abshuzhi.com^
-||jackwolfskinpraha.com^
 ||meek.cz^
 ||fashion-mode.cz^
 ||coffeeboy.cz^
-||vanspraha.cz^
 ||aiglevyprodej.cz^
 ||indoorsuper.com^
 ||zasilkonos.cz^
-||sorelpraha.com^
 ||pumaslovensko.sk^
 ||bestremedyforpeople.com^
 ||bgznyxlbkgp.digital^
@@ -859,7 +845,6 @@
 ||europebitcoinlab.com^
 ||skvela-moda.cz^
 ||onlinecheap2021.ru^
-||vivobarefootpraha.com^
 ||nbcz.cz^
 ||topshop-eu.com^
 ||microbiologybytes.com^
