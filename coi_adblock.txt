@@ -1,12 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby
 ! Description: Adblock list poskladany z verejnych dat COI rizikove weby.
-! Version: 1747707062
+! Version: 1747793461
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||prahaatelier.cz^
+||zorena-cz.com^
+||tinnitus-harmony.com^
+||getmerbix.store^
 ||noluva.cz^
 ||belleef.com^
 ||cbhsax.shop^
@@ -475,38 +479,10 @@
 ||2023discountoutlets.com^
 ||xfanclubs.com^
 ||grammebr.shop^
-||wuying.shop^
-||julnewsb.com^
-||hiffhstore.com^
-||docmartens.cz^
-||thursdayboots.cz^
 ||botycaterpillar.cz^
-||originastyles.com^
 ||koala-express.eu^
-||oholderdes.shop^
-||s-brands.cz^
-||carlsplace.org^
-||julnewsb.com^
-||springatdelphi.com^
-||za.com^
-||atlor.shop^
-||hunterholinkysleva.cz^
-||krisnoshop.com^
-||nbvyprodej.cz^
-||reelio.cz^
-||meilizhubao.top^
-||warby-parker.cz^
 ||ryderwear.cz^
-||tikkisandale.cz^
-||axelarigato.cz^
-||espadrilkytoms.cz^
-||novelabel.com^
 ||kupi-cz.com^
-||corbata.shop^
-||czat.shop^
-||itdigitalbgnexus.life^
-||innov8ionhub.top^
-||zapetos.shop^
 ||hokacz.cz^
 ||puresuit.shop^
 ||wiseandhealthyacademy.com^
@@ -917,15 +893,7 @@
 ||uggsleva.cz^
 ||predstavitltd.com^
 ||cpagettipotokk8.com^
-||top-sales24.com^
-||offerinfor24.com^
-||phytosbest.com^
-||nfldresylevnecz.com^
-||bettertbuy.co^
 ||globalpromotiontool.com^
-||cpgtstream8.com^
-||servingyourpharmacy.com^
-||onlinecheap2020.net^
 ||fotbalovemall.com^
 ||nirt.co.uk^
 ||recenzetop.cz^
