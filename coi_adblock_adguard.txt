@@ -1,12 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1747707062
+! Version: 1747793461
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||prahaatelier.cz^$all
+||zorena-cz.com^$all
+||tinnitus-harmony.com^$all
+||getmerbix.store^$all
 ||noluva.cz^$all
 ||belleef.com^$all
 ||cbhsax.shop^$all
@@ -475,38 +479,10 @@
 ||2023discountoutlets.com^$all
 ||xfanclubs.com^$all
 ||grammebr.shop^$all
-||wuying.shop^$all
-||julnewsb.com^$all
-||hiffhstore.com^$all
-||docmartens.cz^$all
-||thursdayboots.cz^$all
 ||botycaterpillar.cz^$all
-||originastyles.com^$all
 ||koala-express.eu^$all
-||oholderdes.shop^$all
-||s-brands.cz^$all
-||carlsplace.org^$all
-||julnewsb.com^$all
-||springatdelphi.com^$all
-||za.com^$all
-||atlor.shop^$all
-||hunterholinkysleva.cz^$all
-||krisnoshop.com^$all
-||nbvyprodej.cz^$all
-||reelio.cz^$all
-||meilizhubao.top^$all
-||warby-parker.cz^$all
 ||ryderwear.cz^$all
-||tikkisandale.cz^$all
-||axelarigato.cz^$all
-||espadrilkytoms.cz^$all
-||novelabel.com^$all
 ||kupi-cz.com^$all
-||corbata.shop^$all
-||czat.shop^$all
-||itdigitalbgnexus.life^$all
-||innov8ionhub.top^$all
-||zapetos.shop^$all
 ||hokacz.cz^$all
 ||puresuit.shop^$all
 ||wiseandhealthyacademy.com^$all
@@ -917,15 +893,7 @@
 ||uggsleva.cz^$all
 ||predstavitltd.com^$all
 ||cpagettipotokk8.com^$all
-||top-sales24.com^$all
-||offerinfor24.com^$all
-||phytosbest.com^$all
-||nfldresylevnecz.com^$all
-||bettertbuy.co^$all
 ||globalpromotiontool.com^$all
-||cpgtstream8.com^$all
-||servingyourpharmacy.com^$all
-||onlinecheap2020.net^$all
 ||fotbalovemall.com^$all
 ||nirt.co.uk^$all
 ||recenzetop.cz^$all
