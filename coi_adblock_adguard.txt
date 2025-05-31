@@ -1,12 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1748571061
+! Version: 1748657462
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||gjrdcf.com^$all
+||swinimi.com^$all
+||gymsharkczeshop.cz^$all
 ||benes-praha.com^$all
 ||shoprosea.cz^$all
 ||uaqcx.shop^$all
@@ -1034,51 +1037,14 @@
 ||prodazhatovara.com^$all
 ||cardimednd.com^$all
 ||boxerkyprotebe.cz^$all
-||amorise.com^$all
-||obchod2017.com^$all
-||cz-novinky.website^$all
-||myshopolo.cz^$all
-||shopolo.cz^$all
-||lumeo.cz^$all
-||velomont.com^$all
 ||lunzo.cz^$all
-||huglo.sk^$all
-||seekmob.com^$all
-||bestceler.cz^$all
 ||centrum-cesta.cz^$all
-||solarnilampycz.com^$all
-||cpagetti6.com^$all
 ||doktrin.cz^$all
-||bitcoin-billionaire-app.com^$all
-||myshopify.com^$all
-||cpgtstream9.com^$all
-||infrateplomer-cz.com^$all
-||moje-lekarna.com^$all
-||i-healthy-beauty.com^$all
-||energy-saving-b0x.com^$all
 ||xxlobchod.com^$all
-||dreamchaserloveyourself.site^$all
-||onesgos.com^$all
 ||homegaden.com^$all
-||vevio.cz^$all
-||huglo.cz^$all
-||lifeblg.ru^$all
-||wifi-camera.shop^$all
-||trendprace.cz^$all
-||prodej.in^$all
 ||luckydevil.xyz^$all
-||jkprofistav.cz^$all
 ||adnet99.com^$all
-||spssourosice.cz^$all
-||hrbatuvkostelec.cz^$all
 ||hot-shopping-review.com^$all
-||global-package-delivery.com^$all
-||extrifitslovakia.eu^$all
-||fashion4vip.net^$all
-||hobbsfashiondresses.com^$all
-||cornermag.cz^$all
-||zdravimazelenou.cz^$all
-||scientificnewsforyou.com^$all
 ||antikwariat.cz^$all
 ||prostero-official.eu^$all
 ||unique-modules.com^$all
