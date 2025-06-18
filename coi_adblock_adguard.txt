@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1750126261
+! Version: 1750212662
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
@@ -946,53 +946,13 @@
 ||alphazgr.work^$all
 ||felyapis.info^$all
 ||perfectchoice360.com^$all
-||magnet4health.info^$all
-||migoshop-cz.com^$all
-||freshcantine.cz^$all
-||technik4less.de^$all
-||wwlnws.ru^$all
 ||loftyteam.com^$all
-||xfastcart.com^$all
-||trustableoffering.org^$all
-||mirror-news.org^$all
-||potokcpagetti2.com^$all
-||thegreatfitos.com^$all
 ||beauty-goods.biz^$all
-||smartshopping-24.com^$all
-||bestsupportchannel.com^$all
-||vegaslim-shop.com^$all
-||yoursalearea.com^$all
-||dietspraynd.com^$all
-||amazingsite24.com^$all
 ||stronginfo24.com^$all
-||xfastcart.com^$all
-||cpagettistream3.com^$all
-||thebestvouchers.com^$all
-||shopoonline5.com^$all
-||hpeprovisioning9.live^$all
-||tvoje-krasa.cz^$all
-||limitedtimeforoffer.com^$all
-||currentnewsforyou.com^$all
-||keenobuv.cz^$all
-||mycpagettipotok1.com^$all
 ||guccisk.sk^$all
 ||zemanznovu.cz^$all
-||cpagettistream8.com^$all
-||mydiabeticsolutions.com^$all
-||remedythebest.com^$all
-||urban-deals.com^$all
-||mojeroto.cz^$all
-||austarucetnictvi.cz^$all
-||stores2020.net^$all
 ||guccieshop.cz^$all
-||svethadu.cz^$all
-||annapolackova.cz^$all
-||rigthoffer24.com^$all
 ||worldtriviacenter.com^$all
-||cardimnd.com^$all
-||suricateeyes.cz^$all
-||attest.cz^$all
-||lekarnanaproudu.cz^$all
 ||beauty-shopping.net^$all
 ||cloudcheats.cc^$all
 ||vialeky.cz^$all
