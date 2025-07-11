@@ -1,12 +1,24 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1752113461
+! Version: 1752199861
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||jshfluy.lol^$all
+||rcvih8dx.shop^$all
+||trhbns.shop^$all
+||unitascontainers.com^$all
+||thuoew.shop^$all
+||creaketure.com^$all
+||kraffler.lol^$all
+||erehearsem.monster^$all
+||myshoplaza.com^$all
+||mikrocz.cz^$all
+||zakozpc.com^$all
+||kklsmm.com^$all
 ||mira-butik.com^$all
 ||pit-viper.cz^$all
 ||celerra-praha.com^$all
@@ -905,41 +917,12 @@
 ||skincarezlicin.com^$all
 ||vjehlici.cz^$all
 ||orcela.cz^$all
-||shoponline2020.net^$all
-||lookbrew.com^$all
-||sweetshoppingathome.com^$all
-||originalgoodsinternational.com^$all
-||alzaland.cz^$all
-||heygamersnort.at^$all
-||zulole25.vip^$all
-||moveflexofficial.com^$all
-||edensport.cz^$all
-||life-changings-facts.com^$all
-||4blok.cz^$all
-||tylda.cz^$all
-||shoppingclub.cz^$all
-||tryitnow.space^$all
-||thiyas.tk^$all
-||svarecky-velkoobchod.cz^$all
-||eccoobchod.cz^$all
-||megamoravia.cz^$all
-||excolov.com^$all
-||starkuvdum.cz^$all
-||fortmediatech.com^$all
-||aizen.cz^$all
-||cornavllc.com^$all
-||cz-prihlaseni.com^$all
-||ecobydleni.cz^$all
-||smart-topstore.com^$all
-||eccoeshopcz.cz^$all
 ||bezeckyklubbrno.cz^$all
 ||new-promotions24.com^$all
 ||nevergiveupyourmind.com^$all
 ||fotbalovedresycz.com^$all
 ||onlinesale2020.com^$all
 ||uggsleva.cz^$all
-||predstavitltd.com^$all
-||cpagettipotokk8.com^$all
 ||globalpromotiontool.com^$all
 ||fotbalovemall.com^$all
 ||nirt.co.uk^$all
