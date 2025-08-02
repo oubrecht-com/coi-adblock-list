@@ -1,12 +1,25 @@
 [Adblock Plus 2.0]
 ! Title: COI rizikove weby - AdGuard
 ! Description: For AdGuard extensions and local AdGuard app for Windows/macOS/Android/iOS application.
-! Version: 1754014262
+! Version: 1754100662
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/oubrecht-com/coi-adblock-list
 ! License: https://github.com/oubrecht-com/coi-adblock-list
 
 
+||yexard.com^$all
+||oltonaur.com^$all
+||vhafr.com^$all
+||vitalityczech.com^$all
+||yogaalocz.com^$all
+||aurelia-praha.cz^$all
+||leffinata-cz.com^$all
+||adelapraha.cz^$all
+||ellorapraha.cz^$all
+||faymoon.com^$all
+||disposaa.shop^$all
+||siywo.shop^$all
+||kgvyq.shop^$all
 ||nuanzunk.shop^$all
 ||tammyplace.com^$all
 ||caterpillarboty.cz^$all
@@ -556,42 +569,12 @@
 ||ryderwear.cz^$all
 ||kupi-cz.com^$all
 ||hokacz.cz^$all
-||puresuit.shop^$all
-||wiseandhealthyacademy.com^$all
-||rulniw.com^$all
-||freelato.shop^$all
 ||icell.cz^$all
-||nicolettafashion.cz^$all
-||babypandicka.com^$all
-||viknok.top^$all
-||itdigitalczpulse.life^$all
-||bugattiobuv.cz^$all
-||dcshoescz.cz^$all
-||dovsd.com^$all
-||education1.top^$all
-||cezgroup-news.com^$all
-||merrellbotycz.cz^$all
-||skims.cz^$all
-||kamagralove.shop^$all
-||tretryshimano.cz^$all
 ||sweorou.com^$all
 ||shitforyou.eu^$all
 ||solarniledlampa-cz.com^$all
-||outamost.com^$all
-||newdigitalgenius.life^$all
-||labetcod.com^$all
-||thecomplication.cz^$all
-||shuqaim.com^$all
 ||aldoeshop.cz^$all
-||qikoping.com^$all
-||fashicolors.com^$all
-||goddeal.cz^$all
-||xsykl.shop^$all
 ||alimoder.com^$all
-||vamano.cz^$all
-||thirteenpleasant.cc^$all
-||505910.site^$all
-||odprezony.shop^$all
 ||myshopify.com^$all
 ||21sstylees.com^$all
 ||crypsome.click^$all
