@@ -1,10 +1,9 @@
-**There will be no more automatic updates.**
-**Nebudou zde již žádné další automatické aktualizace.**
-
+**There will be no more automatic updates.**<br />
+**Nebudou zde již žádné další automatické aktualizace.**<br />
+<br />
 
 COI adblock list Risk Sites
 ===========================
-**There will be no more automatic updates.**
 This filter is based on public data available at the Czech Trade Inspection Authority:<br />
 https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv<br />
 https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/
@@ -29,9 +28,6 @@ This adblock list is created once a day on the server. The availability of the s
 
 ČOI adblock list Rizikové weby
 ==============================
-
-**Nebudou zde již žádné další automatické aktualizace.**
-
 Tento filtr je postavený na veřejných datech dostupných na adrese České obchodní inspekce:<br />
 https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv<br />
 https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/
